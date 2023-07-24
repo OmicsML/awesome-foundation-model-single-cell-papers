@@ -5,7 +5,6 @@
 1. [2023 bioRxiv][**scFoundation**] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v2)
 1. [2023 Nature][**GeneFormer**] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
 1. [2023 iSchience][**tGPT**] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
-1. [2023 bioRxiv][**GeneGPT**] **GeneGPT: Augmenting Large Language Models with Domain Tools for Improved Access to Biomedical Information** [[paper]](https://arxiv.org/abs/2304.09667)
 1. [2023 bioRxiv][**scGPT**] **scGPT: Towards Building a Foundation Model for Single-Cell Multi-omics Using Generative AI** [[paper v1]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v1), [[paper v2]](https://www.biorxiv.org/content/10.1101/2023.04.30.538439v2)
 1. [2023 bioRxiv][**xTrimoGene**] **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://www.biorxiv.org/content/10.1101/2023.03.24.534055v1)
 1. [2022 arxiv][**Exceiver**] **A single-cell gene expression language model** [[paper]](https://arxiv.org/abs/2210.14330)
