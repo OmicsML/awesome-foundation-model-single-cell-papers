@@ -1,4 +1,5 @@
 # foundation-model-single-cell-papers
+1. [2023 bioRxiv] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 1. [2023 Nature Biotechnology multi-modal] **Integration of multi-modal single-cell data** [[Paper]](https://www.nature.com/articles/s41587-023-01826-4)
 1. [2023 bioRxiv multi-modal] **Single-cell gene expression prediction from DNA sequence at large contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full)
 1. [2023 bioRxiv multi-modal] **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1)
