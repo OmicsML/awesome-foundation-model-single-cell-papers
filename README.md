@@ -1,5 +1,6 @@
 # foundation-model-single-cell-papers
-
+1. [2023 XXXX] **scHynena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** 
+1. [2023 XXXX] **A Deeper Dive into Single-Cell RNA Sequencing Foundation Models** 
 1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
 1. [2023 bioRxiv] **Evaluating the Utilities of Large Language Models in Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v2)
 1. [2023 bioRxiv] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
