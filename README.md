@@ -1,4 +1,5 @@
 # foundation-model-single-cell-papers
+1. [2023 bioRxiv] **Assessing the limits of zero-shot foundation models in single-cell biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf)
 1. [2023 bioRxiv] **GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf)
 1. [2023 bioRxiv] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 1. [2023 Nature Biotechnology multi-modal] **Integration of multi-modal single-cell data** [[Paper]](https://www.nature.com/articles/s41587-023-01826-4)
