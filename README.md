@@ -8,7 +8,7 @@
 1. [2023 bioRxiv multi-modal] **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1)
 1. [2023 bioRxiv] **CellPolaris: Decoding Cell Fate through Generalization Transfer Learning of Gene Regulatory Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.25.559244v1#:~:text=Applications%20of%20CellPolaris%20demonstrate%20remarkable,outcomes%20in%20cell%20reprogramming%20and)
 1. [2023 bioRxiv] **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1)
-1. [2023 XXXX] **scHynena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** 
+1. [2023 bioRxiv] **scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** [[paper]](https://arxiv.org/abs/2310.02713)
 1. [2023 XXXX] **A Deeper Dive into Single-Cell RNA Sequencing Foundation Models** 
 1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
 1. [2023 bioRxiv] **Evaluating the Utilities of Large Language Models in Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v2)
