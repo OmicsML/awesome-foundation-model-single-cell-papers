@@ -1,4 +1,5 @@
 # foundation-model-single-cell-papers
+1. [2023 bioRxiv] **Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v1)
 1. [2023 bioRxiv] **To Transformers and Beyond: Large Language Models for the Genome** [[paper]](https://arxiv.org/abs/2311.07621)
 1. [2023 bioRxiv] **A pre-trained large generative model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v2.full.pdf)
 1. [2023 bioRxiv] **Assessing the limits of zero-shot foundation models in single-cell biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf)
