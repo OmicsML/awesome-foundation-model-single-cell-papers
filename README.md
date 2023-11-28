@@ -1,4 +1,6 @@
 # foundation-model-single-cell-papers
+1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
+1. [2023 Nature Machine Intelligence] **Reusability report: Learning the transcriptional grammar in single-cell RNA-sequencing data using transformers** [[paper]](https://www.nature.com/articles/s42256-023-00757-8)
 1. [2023 bioRxiv] **Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v1)
 1. [2023 bioRxiv] **To Transformers and Beyond: Large Language Models for the Genome** [[paper]](https://arxiv.org/abs/2311.07621)
 1. [2023 bioRxiv] **A pre-trained large generative model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v2.full.pdf)
