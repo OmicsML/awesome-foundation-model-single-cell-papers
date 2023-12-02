@@ -1,4 +1,5 @@
 # foundation-model-single-cell-papers
+1. [2023 biorxiv] **A Deep Dive into Single-Cell RNA Sequencing Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.abstract)
 1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
 1. [2023 Nature Machine Intelligence] **Reusability report: Learning the transcriptional grammar in single-cell RNA-sequencing data using transformers** [[paper]](https://www.nature.com/articles/s42256-023-00757-8)
 1. [2023 bioRxiv] **Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v1)
