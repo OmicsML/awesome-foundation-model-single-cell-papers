@@ -1,4 +1,5 @@
 # Foundation-Model-For-Single-cell
+1. [2023 NeurIPS 2023 AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
 1. [2023 biorxiv] **scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.569910v1.full.pdf)
 1. [2023 biorxiv] **Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.04371.pdf)
 1. [2023 biorxiv] **A Deep Dive into Single-Cell RNA Sequencing Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.abstract)
