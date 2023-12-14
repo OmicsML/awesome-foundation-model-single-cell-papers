@@ -1,16 +1,21 @@
+# Foundation-Model-Evaluation-For-Single-cell
+1. [2023 biorxiv] **A Deep Dive into Single-Cell RNA Sequencing Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.abstract)
+1. [2023 bioRxiv] **Evaluating the Utilities of Large Language Models in Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v2)
+1. [2023 bioRxiv] **Assessing the limits of zero-shot foundation models in single-cell biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf)
+1. [2023 bioRxiv] **Foundation Models Meet Imbalanced Single-Cell Data When Learning Cell Type Annotations** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.24.563625v1)
+
+
 # Foundation-Model-For-Single-cell
 1. [2023 biorxiv] **Universal Cell Embeddings: A Foundation Model for Cell Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1.full.pdf)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **scCLIP: Multi-modal Single-cell Contrastive Learning Integration Pre-training** [[paper]](https://openreview.net/pdf?id=KMtM5ZHxct)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
 1. [2023 biorxiv] **scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.569910v1.full.pdf)
 1. [2023 biorxiv] **Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.04371.pdf)
-1. [2023 biorxiv] **A Deep Dive into Single-Cell RNA Sequencing Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.abstract)
 1. [2023 arxiv multimodal] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://arxiv.org/abs/2310.02275)
 1. [2023 Nature Machine Intelligence] **Reusability report: Learning the transcriptional grammar in single-cell RNA-sequencing data using transformers** [[paper]](https://www.nature.com/articles/s42256-023-00757-8)
 1. [2023 bioRxiv] **Scalable querying of human cell atlases via a foundational model reveals commonalities across fibrosis-associated macrophages** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.18.549537v1)
 1. [2023 bioRxiv] **To Transformers and Beyond: Large Language Models for the Genome** [[paper]](https://arxiv.org/abs/2311.07621)
 1. [2023 bioRxiv] **A pre-trained large generative model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v2.full.pdf)
-1. [2023 bioRxiv] **Assessing the limits of zero-shot foundation models in single-cell biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf)
 1. [2023 bioRxiv] **GENEPT: A SIMPLE BUT HARD-TO-BEAT FOUNDATION MODEL FOR GENES AND CELLS BUILT FROM CHATGPT** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf)
 1. [2023 bioRxiv] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
 1. [2023 Nature Biotechnology multi-modal] **Integration of multi-modal single-cell data** [[Paper]](https://www.nature.com/articles/s41587-023-01826-4)
@@ -21,7 +26,6 @@
 1. [2023 bioRxiv] **scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** [[paper]](https://arxiv.org/abs/2310.02713)
 1. [2023 XXXX] **A Deeper Dive into Single-Cell RNA Sequencing Foundation Models** 
 1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
-1. [2023 bioRxiv] **Evaluating the Utilities of Large Language Models in Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v2)
 1. [2023 bioRxiv] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2023 bioRxiv][**scTranslator**] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 bioRxiv][**scPoli**] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
