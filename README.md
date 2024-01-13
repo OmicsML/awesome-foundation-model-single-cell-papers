@@ -6,6 +6,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2023 biorxiv] **scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.22.568346v1.full.pdf)
 1. [2023 biorxiv] **Universal Cell Embeddings: A Foundation Model for Cell Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1.full.pdf)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **scCLIP: Multi-modal Single-cell Contrastive Learning Integration Pre-training** [[paper]](https://openreview.net/pdf?id=KMtM5ZHxct)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
