@@ -6,7 +6,7 @@
 1. [2023 bioRxiv] **Assessing the limits of zero-shot foundation models in single-cell biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.561085v1.full.pdf)
 1. [2023 bioRxiv] **Foundation Models Meet Imbalanced Single-Cell Data When Learning Cell Type Annotations** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.24.563625v1)
 1. [2023 bioRxiv] **Evaluation of large language models for discovery of gene set function** [[paper]](https://arxiv.org/abs/2309.04019)
-1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/forum?id=uKB4cFNQFg&referrer=%5Bthe%20profile%20of%20Marc%20Horlacher%5D(%2Fprofile%3Fid%3D~Marc_Horlacher1)
+1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
 
 
 # Foundation-Model-For-Single-cell
