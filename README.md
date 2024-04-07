@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 biorxiv] **Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.21.581428v1)
 1. [2024 biorxiv] **scmFormer Integrates Large-Scale Single-Cell Proteomics and Transcriptomics Data by Multi-Task Transformer** [[paper]](https://pubmed.ncbi.nlm.nih.gov/38483032/)
 1. [2024 biorxiv] **Sequence modeling and design from molecular to genome scale with Evo** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)
 1. [2024] **Single-cell metadata as language** [[paper]](https://www.nxn.se/valent/2024/2/4/single-cell-metadata-as-language)
