@@ -56,6 +56,7 @@
 
 
 # Foundation-Model-For-Pathology
+1. [2024 bioRxiv] **BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once** [[paper]](https://arxiv.org/pdf/2405.12971)
 1. [2024 Nature] **A whole-slide foundation model for digital pathology from real-world data** [[paper]](https://www.nature.com/articles/s41586-024-07441-w)
 1. [2024 Nature Medicine FM4Pathology] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3)
 1. [2024 Nature Medicine FM4Pathology] **A visual-language foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02856-4)
