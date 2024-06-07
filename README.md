@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 biorxiv] **LangCell: Language-Cell Pre-training for Cell Identity Understanding** [[paper]](https://arxiv.org/pdf/2405.06708)
 1. [2024 biorxiv] **Nicheformer: a foundation model for single-cell and spatial omics** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1)
 1. [2024 biorxiv] **Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.21.581428v1)
 1. [2024 biorxiv] **scmFormer Integrates Large-Scale Single-Cell Proteomics and Transcriptomics Data by Multi-Task Transformer** [[paper]](https://pubmed.ncbi.nlm.nih.gov/38483032/)
