@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 biorxiv] **Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery** [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.25.605062v1)
 1. [2024 biorxiv] **scMulan: a multitask generative pre-trained language model for single-cell analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
 1. [2024 biorxiv] **CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.08.593094v1#:~:text=To%20address%20these%20challenges%2C%20we,data%20embedding%20for%20various%20analysis.)
 1. [2024 biorxiv] **LangCell: Language-Cell Pre-training for Cell Identity Understanding** [[paper]](https://arxiv.org/pdf/2405.06708)
