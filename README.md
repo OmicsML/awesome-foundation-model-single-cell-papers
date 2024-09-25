@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **How to Build the Virtual Cell with Artificial Intelligence: Priorities and Opportunities** [[paper](https://arxiv.org/abs/2409.11654)]
 1. [2024 Nature Methods] **Transformers in single-cell omics: a review and new perspectives** [[paper](https://www.nature.com/articles/s41592-024-02353-z)]
 1. [2024 BioRxiv] **Cell-Graph Compass: Modeling Single Cells with Graph Structure Foundation Model** [[paper](https://www.biorxiv.org/content/10.1101/2024.06.04.597354v1.full.pdf)]
 1. [2024 BioRxiv] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)]
