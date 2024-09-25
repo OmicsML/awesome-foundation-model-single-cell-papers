@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **Cell-Graph Compass: Modeling Single Cells with Graph Structure Foundation Model** [[paper](https://www.biorxiv.org/content/10.1101/2024.06.04.597354v1.full.pdf)]
 1. [2024 BioRxiv] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)]
 1. [2024 biorxiv] **Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery** [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.25.605062v1)
 1. [2024 biorxiv] **scMulan: a multitask generative pre-trained language model for single-cell analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
