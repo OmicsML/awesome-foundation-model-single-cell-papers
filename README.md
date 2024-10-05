@@ -1,4 +1,6 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2024 biorxiv] **Benchmarking a foundational cell model for post-perturbation RNAseq prediction** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/10/01/2024.09.30.615843.full.pdf)
+1. [2024 biorxiv] **PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.02.616248v1)
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41592-024-02235-4)
 1. [2024 biorxiv] **Metric Mirages in Cell Embeddings** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.02.587824v1)
 1. [2023 biorxiv] **A Deep Dive into Single-Cell RNA Sequencing Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.19.563100v1.abstract)
@@ -10,6 +12,8 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
+1. [2024 BioRxiv] **Cell-ontology guided transcriptome foundation model** [[paper](https://arxiv.org/pdf/2408.12373)]
 1. [2024 Cell, FM4perturbation data: a review] **Toward a foundation model of causal cell and tissue biology with a Perturbation Cell and Tissue Atlas** [[paper](https://www.cell.com/cell/abstract/S0092-8674(24)00829-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008298%3Fshowall%3Dtrue)]
 1. [2024 BioRxiv] **How to Build the Virtual Cell with Artificial Intelligence: Priorities and Opportunities** [[paper](https://arxiv.org/abs/2409.11654)]
 1. [2024 Nature Methods] **Transformers in single-cell omics: a review and new perspectives** [[paper](https://www.nature.com/articles/s41592-024-02353-z)]
