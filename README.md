@@ -12,6 +12,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **scGenePT: Is language all you need for modeling single-cell perturbations?** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619972v1)]
 1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 BioRxiv] **Cell-ontology guided transcriptome foundation model** [[paper](https://arxiv.org/pdf/2408.12373)]
 1. [2024 Cell, FM4perturbation data: a review] **Toward a foundation model of causal cell and tissue biology with a Perturbation Cell and Tissue Atlas** [[paper](https://www.cell.com/cell/abstract/S0092-8674(24)00829-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008298%3Fshowall%3Dtrue)]
