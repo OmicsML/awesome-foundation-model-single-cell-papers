@@ -47,7 +47,7 @@
 1. [2023 bioRxiv] **scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** [[paper]](https://arxiv.org/abs/2310.02713)
 1. [2023 XXXX] **A Deeper Dive into Single-Cell RNA Sequencing Foundation Models** 
 1. [2023 bioRxiv] **GET: a foundation model of transcription across human cell types** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.24.559168v1)
-1. [2023 bioRxiv] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
+1. [2024 ICML] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2023 bioRxiv][**scTranslator**] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 bioRxiv][**scPoli**] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
 1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9915700/)
