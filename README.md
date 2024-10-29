@@ -1,5 +1,6 @@
 ## Foundation-Model-Evaluation-For-Single-cell
 1. [2024 biorxiv] **Benchmarking a foundational cell model for post-perturbation RNAseq prediction** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/10/01/2024.09.30.615843.full.pdf)
+1. [2024 biorxiv] **Benchmarking Transcriptomics Foundation Models for Perturbation Analysis: one PCA still rules them all** [[paper]](https://arxiv.org/abs/2410.13956)
 1. [2024 biorxiv] **PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.02.616248v1)
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41592-024-02235-4)
 1. [2024 biorxiv] **Metric Mirages in Cell Embeddings** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.02.587824v1)
