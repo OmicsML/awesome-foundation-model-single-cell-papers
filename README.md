@@ -10,6 +10,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **CancerFoundation: A single-cell RNA sequencing foundation model to decipher drug resistance in** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.01.621087v1.full.pdf)]
 1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 BioRxiv] **Cell-ontology guided transcriptome foundation model** [[paper](https://arxiv.org/pdf/2408.12373)]
 1. [2024 BioRxiv] **How to Build the Virtual Cell with Artificial Intelligence: Priorities and Opportunities** [[paper](https://arxiv.org/abs/2409.11654)]
