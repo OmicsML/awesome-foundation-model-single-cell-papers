@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2024 biorxiv] **Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.13.628448v1)
 1. [2024 Nature Machine Intelligence] **Deeper evaluation of a single-cell foundation models** [[paper]](https://www.nature.com/articles/s42256-024-00949-w)
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper]](https://www.nature.com/articles/s41592-024-02235-4)
 1. [2024 biorxiv] **Metric Mirages in Cell Embeddings** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.02.587824v1)
