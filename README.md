@@ -12,6 +12,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 BioRxiv] **Scaling Dense Representations for Single Cell with Transcriptome-Scale Context** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.28.625303v1.full)]
 1. [2024 BioRxiv] **SubCell: Vision foundation models for microscopy capture single-cell biology** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627299v1)]
 1. [2024 Nature Machine Intelligence] **Delineating the effective use of self-supervised learning in single-cell genomics** [[paper](https://www.nature.com/articles/s42256-024-00934-3)]
 1. [2024 arxiv] **scReader: Prompting Large Language Models to Interpret scRNA-seq Data** [[paper](https://arxiv.org/abs/2412.18156)]
