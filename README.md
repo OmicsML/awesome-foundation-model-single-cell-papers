@@ -12,6 +12,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2024 Nature Machine Intelligence] **Delineating the effective use of self-supervised learning in single-cell genomics** [[paper](https://www.nature.com/articles/s42256-024-00934-3)]
 1. [2024 arxiv] **scReader: Prompting Large Language Models to Interpret scRNA-seq Data** [[paper](https://arxiv.org/abs/2412.18156)]
 1. [2024 BioRxiv] **A framework for gene representation on spatial transcriptomics** [[paper](https://www.biorxiv.org/content/10.1101/2024.09.27.615337v5)]
 1. [2024 BioRxiv] **Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)]
