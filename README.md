@@ -12,6 +12,7 @@
 
 
 # Foundation-Model-For-Single-cell
+1. [2025 BioRxiv] **Scaling Large Language Models for Next-Generation Single-Cell Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1)]
 1. [2025 BioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)]
 1. [2025 BioRxiv, Tabular Modeling on single-cell data] **Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling** [[paper](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)]
 1. [2024 BioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)]
