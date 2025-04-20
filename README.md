@@ -74,9 +74,6 @@
 1. [2022 bioRxiv][**scFormer**] **scFormer: a universal representation learning approach for single-cell data using transformers** [[paper]](https://openreview.net/pdf?id=7hdmA0qtr5)
 1. [2022 Bioinformatics][**scPretrain**] **scPretrain: multi-task self-supervised learning for cell-type classification** [[paper]](https://academic.oup.com/bioinformatics/article/38/6/1607/6499287)
 
-# Multimodal-For-Single-cell
-1. [2025 Nature] **Towards multimodal foundation models in molecular cell biology** [[paper]](https://www.nature.com/articles/s41586-025-08710-y)
-
 
 ## Foundation-Model-Genetic-Perturbation
 1. [2024 biorxiv] **Benchmarking a foundational cell model for post-perturbation RNAseq prediction** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/10/01/2024.09.30.615843.full.pdf)
