@@ -13,6 +13,7 @@
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
+1. [2025 arxiv] **TEDDY: A FAMILY OF FOUNDATION MODELS FOR UNDERSTANDING SINGLE CELL BIOLOGY** [[paper]](https://arxiv.org/pdf/2503.03485)
 1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 ICML] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2024 biorxiv] **Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
