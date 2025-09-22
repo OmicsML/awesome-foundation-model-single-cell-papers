@@ -21,10 +21,13 @@
 
 
 ## FM 
+1. [2025 BioRxiv] **SCARF: Single Cell ATAC-seq and RNA-seq Foundation model** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)]
+1. [2025 BioRxiv] **Multimodal foundation model predicts zero-shot functional perturbations and cell fate dynamics** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.19.629561v2)]
 1. [2025 Nature Communications] **CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells** [[paper](https://www.nature.com/articles/s41467-025-59926-5)]
 1. [2025 BioRxiv] **Scaling Large Language Models for Next-Generation Single-Cell Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1)]
 1. [2025 BioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)]
 1. [2025 BioRxiv, Tabular Modeling on single-cell data] **Toward a privacy-preserving predictive foundation model of single-cell transcriptomics with federated learning and tabular modeling** [[paper](https://www.biorxiv.org/content/10.1101/2025.01.06.631427v1)]
+1. [2024 National Science Review] **General-purpose pre-trained large cellular models for single-cell transcriptomic** [[paper](https://academic.oup.com/nsr/article/11/11/nwae340/7775526)]
 1. [2024 BioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)]
 1. [2024 BioRxiv] **Scaling Dense Representations for Single Cell with Transcriptome-Scale Context** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.28.625303v1.full)]
 1. [2024 BioRxiv] **SubCell: Vision foundation models for microscopy capture single-cell biology** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627299v1)]
