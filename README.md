@@ -1,4 +1,6 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2025 biorxiv] **Benchmarking gene embeddings from sequence, expression, network, and text models for functional prediction tasks** [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.29.635607v1)
+1. [2025 biorxiv] **Diversity by Design: Addressing Mode Collapse Improves scRNA-seq Perturbation Modeling on Well-Calibrated Metrics** [[paper]](https://arxiv.org/abs/2506.22641)
 1. [2025 Genome Biology] **Zero-shot evaluation reveals limitations of single-cell foundation models** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x)
 1. [2024 biorxiv] **Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.13.628448v1)
 1. [2024 Nature Machine Intelligence] **Deeper evaluation of a single-cell foundation models** [[paper]](https://www.nature.com/articles/s42256-024-00949-w)
