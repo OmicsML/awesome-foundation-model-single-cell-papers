@@ -23,6 +23,7 @@
 
 
 ## FM 
+1. [2025 BioRxiv] **SToFM: a Multi-scale Foundation Model for Spatial Transcriptomics** [[paper](https://arxiv.org/abs/2507.11588)]
 1. [2025 BioRxiv] **SCARF: Single Cell ATAC-seq and RNA-seq Foundation model** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)]
 1. [2025 BioRxiv] **Multimodal foundation model predicts zero-shot functional perturbations and cell fate dynamics** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.19.629561v2)]
 1. [2025 Nature Communications] **CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells** [[paper](https://www.nature.com/articles/s41467-025-59926-5)]
