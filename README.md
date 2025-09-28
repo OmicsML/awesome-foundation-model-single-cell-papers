@@ -4,6 +4,7 @@
 1. [2025 Genome Biology] **Zero-shot evaluation reveals limitations of single-cell foundation models** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03574-x)
 1. [2025 biorxiv] **scDrugMap: Benchmarking Large Foundation Models for Drug Response Prediction** [[paper]](https://arxiv.org/abs/2505.05612)
 1. [2025 WSDM] **A Systematic Evaluation of Single-Cell Foundation Models on Cell-Type Classification Task** [[paper]](https://dl.acm.org/doi/10.1145/3701551.3708811)
+1. [2024 Nature Machine Intelligence] **Delineating the effective use of self-supervised learning in single-cell genomics** [[paper](https://www.nature.com/articles/s42256-024-00934-3)]
 1. [2024 Patterns] **BioLLM: A standardized framework for integrating and benchmarking single-cell foundation models** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389925001746)
 1. [2024 biorxiv] **Evaluating the role of pre-training dataset size and diversity on single-cell foundation model performance** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.13.628448v1)
 1. [2024 Nature Machine Intelligence] **Deeper evaluation of a single-cell foundation models** [[paper]](https://www.nature.com/articles/s42256-024-00949-w)
@@ -17,6 +18,7 @@
 
 ## Single-cell-Machine-Learning-Related-Survey
 1. [2025 ACL] **A survey on foundation language models for single-cell biology** [[paper]](https://aclanthology.org/2025.acl-long.26/)
+1. [2024 National Science Review] **General-purpose pre-trained large cellular models for single-cell transcriptomic** [[paper](https://academic.oup.com/nsr/article/11/11/nwae340/7775526)]
 1. [2024 Nature Methods] **Transformers in single-cell omics: a review and new perspectives** [[paper]](https://www.nature.com/articles/s41592-024-02353-z)
 1. [2024 Cell] **The future of rapid and automated single-cell data analysis using reference mapping** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)00301-5)
 1. [2024 Nature] **The Human Cell Atlas from a cell census to a unified foundation model** [[paper]](https://www.nature.com/articles/s41586-024-08338-4)
@@ -33,6 +35,7 @@
 1. [2025 Nature Biomedical Engineering] **Simple and effective embedding model for single-cell biology built from chatgpt** [[paper]](https://www.nature.com/articles/s41551-024-01284-6)
 1. [2025 ICML Workshop GenBio] **TEDDY: A FAMILY OF FOUNDATION MODELS FOR UNDERSTANDING SINGLE CELL BIOLOGY** [[paper]](https://arxiv.org/pdf/2503.03485)
 1. [2024 ICLR Workshop MLGenX] **Joint embedding of transcriptomes and text enables interactive single-cell RNA-seq data exploration via natural language** [[paper](https://openreview.net/forum?id=yWiZaE4k3K)]
+1. [2024 biorxiv] **CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.08.593094v1)
 1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 ICML] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2024 biorxiv] **Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
@@ -41,6 +44,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 Nature Communications] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.nature.com/articles/s41467-025-58699-1)]
 1. [2025 Nature Methods] **A visual–omics foundation model to bridge histopathology with spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41592-025-02707-1)
 1. [2025 Nature Methods] **EpiAgent: foundation model for single-cell epigenomics** [[paper]](https://www.nature.com/articles/s41592-025-02822-z)
 1. [2025 biorxiv] **CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein** [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.07.663366v1)
@@ -55,32 +59,21 @@
 1. [2025 RECOMB] **Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-90252-9_27)
 1. [2024 biorxiv] **scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.09.622759v2)
 1. [2024 National Science Review] **Cell-GraphCompass: Modeling Single Cells with Graph Structure Foundation Model** [[paper]](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf255/8172492)
-1. [2024 National Science Review] **General-purpose pre-trained large cellular models for single-cell transcriptomic** [[paper](https://academic.oup.com/nsr/article/11/11/nwae340/7775526)]
 1. [2024 Nature] **A cell atlas foundation model for scalable search of similar human cells** [[paper]](https://www.nature.com/articles/s41586-024-08411-y)
 1. [2024 BioRxiv] **Scaling Dense Representations for Single Cell with Transcriptome-Scale Context** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.28.625303v1.full)]
-1. [2024 BioRxiv] **SubCell: Vision foundation models for microscopy capture single-cell biology** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.06.627299v1)]
-1. [2024 Nature Machine Intelligence] **Delineating the effective use of self-supervised learning in single-cell genomics** [[paper](https://www.nature.com/articles/s42256-024-00934-3)]
 1. [2024 BioRxiv] **A framework for gene representation on spatial transcriptomics** [[paper](https://www.biorxiv.org/content/10.1101/2024.09.27.615337v5)]
 1. [2024 BioRxiv] **CancerFoundation: A single-cell RNA sequencing foundation model to decipher drug resistance in cancer** [[paper](https://www.biorxiv.org/content/10.1101/2024.11.01.621087v1.full.pdf)]
-1. [2024 BioRxiv] **Cell-ontology guided transcriptome foundation model** [[paper](https://arxiv.org/pdf/2408.12373)]
-1. [2024 Nature Methods] **Transformers in single-cell omics: a review and new perspectives** [[paper](https://www.nature.com/articles/s41592-024-02353-z)]
-1. [2024 BioRxiv] **Cell-Graph Compass: Modeling Single Cells with Graph Structure Foundation Model** [[paper](https://www.biorxiv.org/content/10.1101/2024.06.04.597354v1.full.pdf)]
-1. [2024 BioRxiv] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.biorxiv.org/content/10.1101/2024.07.29.605556v1)]
-1. [2024 biorxiv] **Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery** [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.25.605062v1)
-1. [2024 NeurIPS] **Cell ontology guided transcriptome foundation model** [[paper]](https://openreview.net/forum?id=aeYNVtTo7o&noteId=RW7kCwrUdf)
-1. [2024 biorxiv] **scMulan: a multitask generative pre-trained language model for single-cell analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
-1. [2024 biorxiv] **CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.08.593094v1#:~:text=To%20address%20these%20challenges%2C%20we,data%20embedding%20for%20various%20analysis.)
+1. [2024 NeurIPS] **Cell-ontology guided transcriptome foundation model** [[paper](https://openreview.net/forum?id=aeYNVtTo7o&noteId=RW7kCwrUdf)]
+1. [2024 RECOMB] **scMulan: a multitask generative pre-trained language model for single-cell analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
 1. [2024 Nature Methods][**scGPT**] **scGPT: toward building a foundation model for single-cell multi-omics using generative AI** [[paper]](https://www.nature.com/articles/s41592-024-02201-0)
-1. [2024 biorxiv] **LangCell: Language-Cell Pre-training for Cell Identity Understanding** [[paper]](https://arxiv.org/pdf/2405.06708)
+1. [2024 ICML] **LangCell: Language-Cell Pre-training for Cell Identity Understanding** [[paper]](https://dl.acm.org/doi/10.5555/3692070.3694600)
 1. [2024 biorxiv] **Nicheformer: a foundation model for single-cell and spatial omics** [[paper]](https://www.biorxiv.org/content/10.1101/2024.04.15.589472v1)
 1. [2024 biorxiv] **Large-scale characterization of cell niches in spatial atlases using bio-inspired graph learning** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.21.581428v1)
 1. [2024 biorxiv] **scmFormer Integrates Large-Scale Single-Cell Proteomics and Transcriptomics Data by Multi-Task Transformer** [[paper]](https://pubmed.ncbi.nlm.nih.gov/38483032/)
-1. [2024 biorxiv] **Sequence modeling and design from molecular to genome scale with Evo** [[paper]](https://www.biorxiv.org/content/10.1101/2024.02.27.582234v1)
 1. [2024] **Single-cell metadata as language** [[paper]](https://www.nxn.se/valent/2024/2/4/single-cell-metadata-as-language)
 1. [2024 Cell Research] **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** [[paper]](https://www.nature.com/articles/s41422-024-01034-y)
+1. [2024 Nature Methods] **Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN** [[paper]](https://www.nature.com/articles/s41592-024-02191-z)
 1. [2023 NeurIPS] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://openreview.net/forum?id=4UCktT9XZx)
-1. [2023 biorxiv] **scNODE: Generative Model for Temporal Single Cell Transcriptomic Data Prediction** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.22.568346v1.full.pdf)
-1. [2023 biorxiv] **Universal Cell Embeddings: A Foundation Model for Cell Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1.full.pdf)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **scCLIP: Multi-modal Single-cell Contrastive Learning Integration Pre-training** [[paper]](https://openreview.net/pdf?id=KMtM5ZHxct)
 1. [2023 NeurIPS 2023 AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
 1. [2023 biorxiv] **scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.569910v1.full.pdf)
@@ -99,7 +92,6 @@
 1. [2025 Nature] **A foundation model of transcription across human cell types** [[paper]](https://www.nature.com/articles/s41586-024-08391-z)
 1. [2023 bioRxiv][**scTranslator**] **A pre-trained large language model for translating single-cell transcriptome to proteome** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.04.547619v1)
 1. [2023 bioRxiv][**scPoli**] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.biorxiv.org/content/10.1101/2022.11.28.517803v1)
-1. [2023 bioRxiv] **Towards Universal Cell Embeddings: Integrating Single-cell RNA-seq Datasets across Species with SATURN** [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9915700/)
 1. [2023 bioRxiv][**scFoundation**] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v2)
 1. [2023 Nature][**GeneFormer**] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
 1. [2023 iSchience][**tGPT**] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
