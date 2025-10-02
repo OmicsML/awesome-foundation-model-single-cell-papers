@@ -18,6 +18,7 @@
 1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
 
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
+1. [2025 Experimental & Molecular Medicine] **Single-cell foundation models: bringing artificial intelligence into cell biology** [[paper]](https://www.nature.com/articles/s12276-025-01547-5)
 1. [2025 ACL] **A survey on foundation language models for single-cell biology** [[paper]](https://aclanthology.org/2025.acl-long.26/)
 1. [2025 Nature Machine Intelligence] **Transformers and genome language models** [[paper]](https://www.nature.com/articles/s42256-025-01007-9)
 1. [2024 Cell, FM4perturbation data: a review] **Toward a foundation model of causal cell and tissue biology with a Perturbation Cell and Tissue Atlas** [[paper](https://www.cell.com/cell/abstract/S0092-8674(24)00829-8?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867424008298%3Fshowall%3Dtrue)]
