@@ -49,6 +49,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 biorxiv] **scLinguist: A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics** [[paper]](https://www.biorxiv.org/content/10.1101/2025.09.30.679123v1)
 1. [2025 Nature] **A foundation model of transcription across human cell types** [[paper]](https://www.nature.com/articles/s41586-024-08391-z)
 1. [2025 Nature Communications] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.nature.com/articles/s41467-025-58699-1)]
 1. [2025 Nature Methods] **A visual–omics foundation model to bridge histopathology with spatial transcriptomics** [[paper]](https://www.nature.com/articles/s41592-025-02707-1)
