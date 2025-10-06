@@ -66,6 +66,7 @@
 1. [2025 Nature Methods] **scNET: learning context-specific gene and cell embeddings by integrating single-cell gene expression data with protein–protein interactions** [[paper](https://www.nature.com/articles/s41592-025-02627-0)]
 1. [2025 RECOMB] **Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-90252-9_27)
 1. [2024 Nature Methods][**scFoundation**] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.nature.com/articles/s41592-024-02305-7)
+1. [2024 Nature Methods] **scPROTEIN: a versatile deep graph contrastive learning framework for single-cell proteomics embedding** [[paper]](https://www.nature.com/articles/s41592-024-02214-9)
 1. [2024 biorxiv] **scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.09.622759v2)
 1. [2024 National Science Review] **Cell-GraphCompass: Modeling Single Cells with Graph Structure Foundation Model** [[paper]](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf255/8172492)
 1. [2024 Nature] **A cell atlas foundation model for scalable search of similar human cells** [[paper]](https://www.nature.com/articles/s41586-024-08411-y)
