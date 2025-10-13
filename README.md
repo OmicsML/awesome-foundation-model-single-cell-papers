@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2025 Genome Biology] **Biology-driven insights into the power of single-cell foundation models** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03781-6)
 1. [2025 arXiv] **BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models** [[paper]](https://arxiv.org/abs/2506.14861)
 1. [2025 biorxiv] **Benchmarking gene embeddings from sequence, expression, network, and text models for functional prediction tasks** [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.29.635607v1)
 1. [2025 biorxiv] **Diversity by Design: Addressing Mode Collapse Improves scRNA-seq Perturbation Modeling on Well-Calibrated Metrics** [[paper]](https://arxiv.org/abs/2506.22641)
@@ -104,6 +105,7 @@
 
 
 ## Foundation-Model-Genetic-Perturbation
+1. [2025 Nature Biotechnology] **Systema: a framework for evaluating genetic perturbation response prediction beyond systematic variation** [[paper]](https://www.nature.com/articles/s41587-025-02777-8)
 1. [2025 biorxiv] **Single Cell Foundation Models Evaluation (scFME) for In-Silico Perturbation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.09.22.677811v1)
 1. [2025 Nature Methods] **Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines** [[paper]](https://www.nature.com/articles/s41592-025-02772-6)
 1. [2025 biorxiv] **Predicting cellular responses to perturbation across diverse contexts with STATE** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2)
