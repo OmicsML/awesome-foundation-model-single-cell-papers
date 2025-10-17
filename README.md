@@ -1,4 +1,6 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2025 Nature Methods] **Multitask benchmarking of single-cell multimodal omics integration methods** [[paper]](https://www.nature.com/articles/s41592-025-02856-3)
+1. [2025 arXiv] **BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models** [[paper]](https://arxiv.org/abs/2506.14861)
 1. [2025 Genome Biology] **Biology-driven insights into the power of single-cell foundation models** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03781-6)
 1. [2025 arXiv] **BMFM-RNA: An Open Framework for Building and Evaluating Transcriptomic Foundation Models** [[paper]](https://arxiv.org/abs/2506.14861)
 1. [2025 biorxiv] **Benchmarking gene embeddings from sequence, expression, network, and text models for functional prediction tasks** [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.29.635607v1)
@@ -20,6 +22,7 @@
 1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
 
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
+1. [2025 National Science Review] **Foundation models in bioinformatics** [[paper]](https://academic.oup.com/nsr/article/12/4/nwaf028/7979309)
 1. [2025 bioRxiv] **Large Language Models Meet Virtual Cell: A Survey** [[paper]](https://arxiv.org/abs/2510.07706)
 1. [2025 Patterns] **Large language models for drug discovery and development** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389925001941)
 1. [2025 Experimental & Molecular Medicine] **Single-cell foundation models: bringing artificial intelligence into cell biology** [[paper]](https://www.nature.com/articles/s12276-025-01547-5)
