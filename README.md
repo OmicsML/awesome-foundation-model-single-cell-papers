@@ -35,6 +35,7 @@
 1. [2024 Nature] **The Human Cell Atlas from a cell census to a unified foundation model** [[paper]](https://www.nature.com/articles/s41586-024-08338-4)
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)]
 1. [2024 Computational and Structural Biotechnology Journal] **A mini-review on perturbation modelling across single-cell omic modalities** [[paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)]
+1. [2024 Brief in Bioinformatics] **Progress and opportunities of foundation models in bioinformatics** [[paper](https://academic.oup.com/bib/article/25/6/bbae548/7842778)]
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
