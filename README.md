@@ -42,6 +42,7 @@
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
+1. [2025 bioRxiv] **CellTok: Early-Fusion Multimodal Large Language Model for Single-Cell Transcriptomics via Tokenization** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.22.684047v1)
 1. [2025 BioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)]
 1. [2025 biorxiv] **Towards Applying Large Language Models to Complement Single-Cell Foundation Models** [[paper]](https://arxiv.org/abs/2507.10039)
 1. [2025 biorxiv] **Language-Enhanced Representation Learning for Single-Cell Transcriptomics** [[paper]](https://arxiv.org/abs/2503.09427)
@@ -59,6 +60,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 biorxiv] **Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1)
 1. [2025 biorxiv] **scLinguist: A pre-trained hyena-based foundation model for cross-modality translation in single-cell multi-omics** [[paper]](https://www.biorxiv.org/content/10.1101/2025.09.30.679123v1)
 1. [2025 Nature] **A foundation model of transcription across human cell types** [[paper]](https://www.nature.com/articles/s41586-024-08391-z)
 1. [2025 Nature Communications] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper](https://www.nature.com/articles/s41467-025-58699-1)]
