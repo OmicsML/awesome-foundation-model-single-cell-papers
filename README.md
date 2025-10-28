@@ -24,7 +24,10 @@
 1. [2023 bioRxiv] **Evaluation of large language models for discovery of gene set function** [[paper]](https://arxiv.org/abs/2309.04019)
 1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
 
+
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
+1. [2025 Genome Biology] **Insights, opportunities, and challenges provided by large cell atlases** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03771-8)
+1. [2025 Nature Methods] **Overcoming barriers to the wide adoption of single-cell large language models in biomedical research** [[paper]](https://www.nature.com/articles/s41587-025-02846-y)
 1. [2025 National Science Review] **Foundation models in bioinformatics** [[paper]](https://academic.oup.com/nsr/article/12/4/nwaf028/7979309)
 1. [2025 bioRxiv] **Large Language Models Meet Virtual Cell: A Survey** [[paper]](https://arxiv.org/abs/2510.07706)
 1. [2025 Patterns] **Large language models for drug discovery and development** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389925001941)
