@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2025 Nature Communications] **Benchmarking cell type and gene set annotation by large language models with AnnDictionary** [[paper]](https://www.nature.com/articles/s41467-025-64511-x)
 1. [2025 bioRxiv] **Sparse Autoencoders Reveal Interpretable Features in Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.22.681631v1)
 1. [2025 Nature Machine Intelligence] **Reusability report: Exploring the transferability of self-supervised learning models from single-cell to spatial transcriptomics** [[paper]](https://www.nature.com/articles/s42256-025-01097-5)
 1. [2025 bioRxiv] **Deep Learning-Based Genetic Perturbation Models Do Outperform Uninformative Baselines on Well-Calibrated Metrics** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.20.683304v1)
