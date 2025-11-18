@@ -30,6 +30,7 @@
 
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
 1. [2025 Nature] **Towards multimodal foundation models in molecular cell biology** [[paper]](https://www.nature.com/articles/s41586-025-08710-y#Abs1)
+1. [2025 Computational and Structural Biotechnology Journal] **Tokenization and deep learning architectures in genomics: A comprehensive review** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12356405/)
 1. [2025 Bioinformatics] **Decoding Cell Fate: Integrated Experimental and Computational Analysis at the Single-Cell Level** [[paper]](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf603/8315140)
 1. [2025 Quantitative Biology] **A perspective on developing foundation models for analyzing spatial transcriptomic data** [[paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.70010)
 1. [2025 Genome Biology] **Insights, opportunities, and challenges provided by large cell atlases** [[paper]](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03771-8)
@@ -51,25 +52,28 @@
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
+1. [2025 Nature Biotechnology] **Multimodal learning enables chat-based exploration of single-cell data** [[paper]](https://www.nature.com/articles/s41587-025-02857-9)
 1. [2025 bioRxiv] **Language may be all omics needs: Harmonizing multimodal data for omics understanding with CellHermes** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.07.687322v1)
 1. [2025 bioRxiv] **CellTok: Early-Fusion Multimodal Large Language Model for Single-Cell Transcriptomics via Tokenization** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.22.684047v1)
-1. [2025 BioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)]
+1. [2025 bioRxiv] **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.10.647852v1)]
 1. [2025 biorxiv] **Towards Applying Large Language Models to Complement Single-Cell Foundation Models** [[paper]](https://arxiv.org/abs/2507.10039)
 1. [2025 biorxiv] **Language-Enhanced Representation Learning for Single-Cell Transcriptomics** [[paper]](https://arxiv.org/abs/2503.09427)
 1. [2025 ICML] **sciLaMA: A Single-Cell Representation Learning Framework to Leverage Prior Knowledge from Large Language Models** [[paper](https://openreview.net/forum?id=0m4VsLwj5s)]
-1. [2025 BioRxiv] **Scaling Large Language Models for Next-Generation Single-Cell Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1)]
+1. [2025 bioRxiv] **Scaling Large Language Models for Next-Generation Single-Cell Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v1)]
 1. [2025 Nature Biomedical Engineering] **Simple and effective embedding model for single-cell biology built from chatgpt** [[paper]](https://www.nature.com/articles/s41551-024-01284-6)
 1. [2025 ICML Workshop GenBio] **TEDDY: A FAMILY OF FOUNDATION MODELS FOR UNDERSTANDING SINGLE CELL BIOLOGY** [[paper]](https://arxiv.org/pdf/2503.03485)
 1. [2024 ICLR Workshop MLGenX] **Joint embedding of transcriptomes and text enables interactive single-cell RNA-seq data exploration via natural language** [[paper](https://openreview.net/forum?id=yWiZaE4k3K)]
 1. [2024 biorxiv] **CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.08.593094v1)
-1. [2024 BioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
+1. [2024 bioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 ICML] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
-1. [2024 biorxiv] **Multimodal learning of transcriptomes and text enables interactive single-cell RNA-seq data exploration with natural-language chats** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.15.618501v1)
 1. [2024 arxiv] **scReader: Prompting Large Language Models to Interpret scRNA-seq Data** [[paper](https://arxiv.org/abs/2412.18156)]
-1. [2024 BioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)]
+1. [2024 bioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)]
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 Nature Computataional Science] **Integrative deep learning of spatial multi-omics with SWITCH** [[paper]](https://www.nature.com/articles/s43588-025-00891-w)
+1. [2025 bioRxiv] **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1)
+1. [2025 bioRxiv] **scConcept: Contrastive pretraining for technology-agnostic single-cell representations beyond reconstruction** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.14.682419v1)
 1. [2025 arXiv] **Scalable Single-Cell Gene Expression Generation with Latent Diffusion Models** [[paper]](https://arxiv.org/abs/2511.02986)
 1. [2025 bioRxiv] **A Cross-Species Generative Cell Atlas Across 1.5 Billion Years of Evolution: The TranscriptFormer Single-cell Model** [[paper]](http://biorxiv.org/content/10.1101/2025.04.25.650731v2)
 1. [2025 bioRxiv] **Atacformer: A transformer-based foundation model for analysis and interpretation of ATAC-seq data** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.03.685753v1)
