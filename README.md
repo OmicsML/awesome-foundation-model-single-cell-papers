@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2025 Cell] **Virtual Cell Challenge: Toward a Turing test for the virtual cell** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0)
 1. [2025 bioRxiv] **HEIMDALL: A Modular Framework for Tokenization in Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.09.687403v2)
 1. [2025 bioRxiv] **Empirical Evaluation of Single-Cell Foundation Models for Predicting Cancer Outcomes** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.31.685892v1)
 1. [2025 Nature Communications] **Benchmarking cell type and gene set annotation by large language models with AnnDictionary** [[paper]](https://www.nature.com/articles/s41467-025-64511-x)
@@ -135,6 +136,7 @@
 
 
 ## Foundation-Model-Genetic-Perturbation
+1. [2025 bioRxiv] **PertAdapt: Unlocking Single-Cell Foundation Models for Genetic Perturbation Prediction via Condition-Sensitive Adaptation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.21.689655v1)
 1. [2025 Nature Computational Science] **In silico biological discovery with large perturbation models** [[paper]](https://www.nature.com/articles/s43588-025-00870-1)
 1. [2025 Nature Biotechnology] **Systema: a framework for evaluating genetic perturbation response prediction beyond systematic variation** [[paper]](https://www.nature.com/articles/s41587-025-02777-8)
 1. [2025 biorxiv] **Single Cell Foundation Models Evaluation (scFME) for In-Silico Perturbation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.09.22.677811v1)
