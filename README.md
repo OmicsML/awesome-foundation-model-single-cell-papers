@@ -55,6 +55,7 @@
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
+1. [2025 Nature Communications] **CASSIA: a multi-agent large language model for automated and interpretable cell annotation** [[paper](https://www.nature.com/articles/s41467-025-67084-x)]
 1. [2025 bioRxiv] **CellForge: Agentic Design of Virtual Cell Models** [[paper]](https://arxiv.org/abs/2508.02276)
 1. [2025 bioRxiv] **TISSUENARRATOR: Generative Modeling of Spatial Transcriptomics with Large Language Models** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.24.690325v1.full.pdf)
 1. [2025 Nature Biotechnology] **Multimodal learning enables chat-based exploration of single-cell data** [[paper]](https://www.nature.com/articles/s41587-025-02857-9)
@@ -72,7 +73,6 @@
 1. [2024 bioRxiv] **scChat: A Large Language Model-Powered Co-Pilot for Contextualized Single-Cell RNA Sequencing Analysis** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.01.616063v1.full.pdf+html)]
 1. [2024 ICML] **Cell2Sentence: Teaching Large Language Models the Language of Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v1)
 1. [2024 arxiv] **scReader: Prompting Large Language Models to Interpret scRNA-seq Data** [[paper](https://arxiv.org/abs/2412.18156)]
-1. [2024 bioRxiv] **CASSIA: a multi-agent large language model for reference free, interpretable, and automated cell annotation of single-cell RNA-sequencing data** [[paper](https://www.biorxiv.org/content/10.1101/2024.12.04.626476v2)]
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
