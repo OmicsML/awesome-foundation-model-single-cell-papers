@@ -76,6 +76,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 npj digital medicine] **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** [[paper]](https://www.nature.com/articles/s41746-025-02020-3)
 1. [2025 bioRxiv] **PULSAR: a Foundation Model for Multi-scale and Multicellular Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1)
 1. [2025 Nature Computataional Science] **Integrative deep learning of spatial multi-omics with SWITCH** [[paper]](https://www.nature.com/articles/s43588-025-00891-w)
 1. [2025 bioRxiv] **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1)
