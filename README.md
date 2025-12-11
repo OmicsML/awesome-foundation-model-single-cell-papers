@@ -77,6 +77,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 Nature Communications] **Novae: a graph-based foundation model for spatial transcriptomics data** [[paper]](https://www.nature.com/articles/s41592-025-02899-6)
 1. [2025 npj digital medicine] **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** [[paper]](https://www.nature.com/articles/s41746-025-02020-3)
 1. [2025 bioRxiv] **PULSAR: a Foundation Model for Multi-scale and Multicellular Biology** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.24.685470v1)
 1. [2025 Nature Computataional Science] **Integrative deep learning of spatial multi-omics with SWITCH** [[paper]](https://www.nature.com/articles/s43588-025-00891-w)
@@ -105,7 +106,6 @@
 1. [2025 Nature Methods] **scNET: learning context-specific gene and cell embeddings by integrating single-cell gene expression data with protein–protein interactions** [[paper](https://www.nature.com/articles/s41592-025-02627-0)]
 1. [2025 RECOMB] **Learning multi-cellular representations of single-cell transcriptomics data enables characterization of patient-level disease states** [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-90252-9_27)
 1. [2024 Nature Methods][**scFoundation**] **Large Scale Foundation Model on Single-cell Transcriptomics** [[paper]](https://www.nature.com/articles/s41592-024-02305-7)
-1. [2024 bioRxiv] **Novae: a graph-based foundation model for spatial transcriptomics data** [[paper]](https://www.biorxiv.org/content/10.1101/2024.09.09.612009v1)
 1. [2024 Nature Methods] **scPROTEIN: a versatile deep graph contrastive learning framework for single-cell proteomics embedding** [[paper]](https://www.nature.com/articles/s41592-024-02214-9)
 1. [2024 biorxiv] **scLong: A Billion-Parameter Foundation Model for Capturing Long-Range Gene Context in Single-Cell Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.09.622759v2)
 1. [2024 National Science Review] **Cell-GraphCompass: Modeling Single Cells with Graph Structure Foundation Model** [[paper]](https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwaf255/8172492)
