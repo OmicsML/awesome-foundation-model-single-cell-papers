@@ -7,9 +7,13 @@
 1. [2023 bioRxiv] **Foundation Models Meet Imbalanced Single-Cell Data When Learning Cell Type Annotations** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.24.563625v1)
 1. [2023 bioRxiv] **Evaluation of large language models for discovery of gene set function** [[paper]](https://arxiv.org/abs/2309.04019)
 1. [2024 ICLR benchmark DNA FD] **BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks** [[paper]](https://openreview.net/pdf?id=uKB4cFNQFg)
+2. [2025 Nature Communications] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper]](https://www.nature.com/articles/s41467-025-58699-1)
 
 
 # Foundation-Model-For-Single-cell
+2. [2025 Biorxiv] **scPRINT-2: Towards the next-generation of cell foundation models and benchmarks
+** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.11.693702v2)
+2. [2025 Nature Communications] **scPRINT: pre-training on 50 million cells allows robust gene network predictions** [[paper]](https://www.nature.com/articles/s41467-025-58699-1)
 1. [2024 biorxiv] **Precious3GPT: Multimodal Multi-Species Multi-Omics Multi-Tissue Transformer for Aging Research and Drug Discovery** [[paper]](https://www.biorxiv.org/content/10.1101/2024.07.25.605062v1)
 1. [2024 biorxiv] **scMulan: a multitask generative pre-trained language model for single-cell analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2024.01.25.577152v1)
 1. [2024 biorxiv] **CELLama: Foundation Model for Single Cell and Spatial Transcriptomics by Cell Embedding Leveraging Language Model Abilities** [[paper]](https://www.biorxiv.org/content/10.1101/2024.05.08.593094v1#:~:text=To%20address%20these%20challenges%2C%20we,data%20embedding%20for%20various%20analysis.)
