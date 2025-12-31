@@ -129,22 +129,22 @@
 1. [2024 Cell Research] **GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model** [[paper]](https://www.nature.com/articles/s41422-024-01034-y)
 1. [2024 Nature Methods] **Toward universal cell embeddings: integrating single-cell RNA-seq datasets across species with SATURN** [[paper]](https://www.nature.com/articles/s41592-024-02191-z)
 1. [2023 NeurIPS] **MuSe-GNN: Learning Unified Gene Representation From Multimodal Biological Graph Data** [[paper]](https://openreview.net/forum?id=4UCktT9XZx)
-1. [2023 NeurIPS 2023 AI for Science Workshop] **scCLIP: Multi-modal Single-cell Contrastive Learning Integration Pre-training** [[paper]](https://openreview.net/pdf?id=KMtM5ZHxct)
-1. [2023 NeurIPS 2023 AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
+1. [2023 NeurIPS AI for Science Workshop] **scCLIP: Multi-modal Single-cell Contrastive Learning Integration Pre-training** [[paper]](https://openreview.net/pdf?id=KMtM5ZHxct)
+1. [2023 NeurIPS AI for Science Workshop] **Single-cell Masked Autoencoder: An Accurate and Interpretable Automated Immunophenotyper** [[paper]](https://openreview.net/pdf?id=2mq6uezuGj)
 1. [2023 biorxiv] **scELMo: Embeddings from Language Models are Good Learners for Single-cell Data Analysis** [[paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.569910v1.full.pdf)
 1. [2023 biorxiv] **Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning** [[paper]](https://arxiv.org/pdf/2306.04371.pdf)
 1. [2024 ICLR] **CellPLM: Pre-training of Cell Language Model Beyond Single Cells** [[paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1)
-1. [2023 bioRxiv multi-modal] **Single-cell gene expression prediction from DNA sequence at large contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full)
-1. [2023 bioRxiv multi-modal] **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1)
+1. [2023 bioRxiv] **Single-cell gene expression prediction from DNA sequence at large contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2023.07.26.550634v1.full)
+1. [2023 bioRxiv] **Predicting RNA-seq coverage from DNA sequence as a unifying model of gene regulation** [[paper]](https://www.biorxiv.org/content/10.1101/2023.08.30.555582v1)
 1. [2023 bioRxiv] **CellPolaris: Decoding Cell Fate through Generalization Transfer Learning of Gene Regulatory Networks** [[paper]](https://www.biorxiv.org/content/10.1101/2023.09.25.559244v1#:~:text=Applications%20of%20CellPolaris%20demonstrate%20remarkable,outcomes%20in%20cell%20reprogramming%20and)
 1. [2023 bioRxiv] **scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain** [[paper]](https://arxiv.org/abs/2310.02713)
 1. [2023 Nature Methods][**scPoli**] **Population-level integration of single-cell datasets enables multi-scale analysis across samples** [[paper]](https://www.nature.com/articles/s41592-023-02035-2)
-1. [2023 Nature][**GeneFormer**] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
-1. [2023 iSchience][**tGPT**] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
-1. [2023 NeurIPS][**xTrimoGene**] **xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://openreview.net/forum?id=gdwcoBCMVi)
-1. [2022 arxiv][**Exceiver**] **A single-cell gene expression language model** [[paper]](https://arxiv.org/abs/2210.14330)
-1. [2022 Nature Machine Intelligence][**scBERT**] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
-1. [2022 Bioinformatics][**scPretrain**] **scPretrain: multi-task self-supervised learning for cell-type classification** [[paper]](https://academic.oup.com/bioinformatics/article/38/6/1607/6499287)
+1. [2023 Nature] **Transfer learning enables predictions in network biology** [[paper]](https://www.nature.com/articles/s41586-023-06139-9)
+1. [2023 iSchience] **Generative pretraining from large-scale transcriptomes for single-cell deciphering** [[paper]](https://www.sciencedirect.com/science/article/pii/S2589004223006132)
+1. [2023 NeurIPS]**xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data** [[paper]](https://openreview.net/forum?id=gdwcoBCMVi)
+1. [2022 arxiv] **A single-cell gene expression language model** [[paper]](https://arxiv.org/abs/2210.14330)
+1. [2022 Nature Machine Intelligence] **scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data** [[paper]](https://www.nature.com/articles/s42256-022-00534-z)
+1. [2022 Bioinformatics] **scPretrain: multi-task self-supervised learning for cell-type classification** [[paper]](https://academic.oup.com/bioinformatics/article/38/6/1607/6499287)
 
 
 ## Foundation-Model-Genetic-Perturbation
@@ -161,12 +161,12 @@
 1. [2024 biorxiv] **Benchmarking Transcriptomics Foundation Models for Perturbation Analysis: one PCA still rules them all** [[paper]](https://arxiv.org/abs/2410.13956)
 1. [2024 ICML] **PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction** [[paper]](https://openreview.net/forum?id=t04D9bkKUq&noteId=cVQ96mwheg)
 1. [2024 BioRxiv] **scGenePT: Is language all you need for modeling single-cell perturbations?** [[paper](https://www.biorxiv.org/content/10.1101/2024.10.23.619972v1)]
-1. [2023 NM] **Causal identification of single-cell experimental perturbation effects with CINEMA-OT** [[paper]](https://www.nature.com/articles/s41592-023-02040-5)
+1. [2023 Nature Methods] **Causal identification of single-cell experimental perturbation effects with CINEMA-OT** [[paper]](https://www.nature.com/articles/s41592-023-02040-5)
 
 
 
 # Foundation-Model-For-Pathology
-1. [2024 bioRxiv] **BiomedParse: a biomedical foundation model for image parsing of everything everywhere all at once** [[paper]](https://arxiv.org/pdf/2405.12971)
+1. [2024 Nature Methods] **A foundation model for joint segmentation, detection and recognition of biomedical objects across nine modalities** [[paper]](https://www.nature.com/articles/s41592-024-02499-w)
 1. [2024 Nature] **A whole-slide foundation model for digital pathology from real-world data** [[paper]](https://www.nature.com/articles/s41586-024-07441-w)
 1. [2024 Nature Medicine FM4Pathology] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3)
 1. [2024 Nature Medicine FM4Pathology] **A visual-language foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02856-4)
