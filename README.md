@@ -82,6 +82,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2025 Nature Machine Intelligence] **Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using scPEFT** [[paper]](https://www.nature.com/articles/s42256-025-01170-z)
 1. [2025 bioRxiv] **scPRINT-2: Towards the next-generation of cell foundation models and benchmarks** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.11.693702v2)
 1. [2025 Nature Methods] **Novae: a graph-based foundation model for spatial transcriptomics data** [[paper]](https://www.nature.com/articles/s41592-025-02899-6)
 1. [2025 npj digital medicine] **STPath: a generative foundation model for integrating spatial transcriptomics and whole-slide images** [[paper]](https://www.nature.com/articles/s41746-025-02020-3)
@@ -148,6 +149,7 @@
 
 
 ## Foundation-Model-Genetic-Perturbation
+1. [2025 PNAS] **Predicting the unseen: A diffusion-based debiasing framework for transcriptional response prediction at single-cell resolution** [[paper]](https://www.pnas.org/doi/10.1073/pnas.2525268122)
 1. [2025 bioRxiv] **Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling** [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.20.639398v3)
 1. [2025 biorxiv] **Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1)
 1. [2025 bioRxiv] **SpatialProp: tissue perturbation modeling with spatially resolved single-cell transcriptomics** [[paper]](https://www.biorxiv.org/content/10.64898/2025.11.30.691355v1)
@@ -157,6 +159,7 @@
 1. [2025 biorxiv] **Single Cell Foundation Models Evaluation (scFME) for In-Silico Perturbation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.09.22.677811v1)
 1. [2025 Nature Methods] **Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines** [[paper]](https://www.nature.com/articles/s41592-025-02772-6)
 1. [2025 biorxiv] **Predicting cellular responses to perturbation across diverse contexts with STATE** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2)
+1. [2024 biorxiv] **Modeling and predicting single-cell multi-gene perturbation responses with scLAMBDA** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.04.626878v1)
 1. [2024 biorxiv] **Benchmarking a foundational cell model for post-perturbation RNAseq prediction** [[paper]](https://www.biorxiv.org/content/biorxiv/early/2024/10/01/2024.09.30.615843.full.pdf)
 1. [2024 biorxiv] **Benchmarking Transcriptomics Foundation Models for Perturbation Analysis: one PCA still rules them all** [[paper]](https://arxiv.org/abs/2410.13956)
 1. [2024 ICML] **PertEval-scFM: Benchmarking Single-Cell Foundation Models for Perturbation Effect Prediction** [[paper]](https://openreview.net/forum?id=t04D9bkKUq&noteId=cVQ96mwheg)
