@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2026 biorxiv] **A unified framework enables accessible deployment and comprehensive benchmarking of single-cell foundation models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.06.698060v1)
 1. [2025 Nature Biotechnology] **Defining and benchmarking open problems in single-cell analysis** [[paper]](https://www.nature.com/articles/s41587-025-02694-w)
 1. [2025 Nature Methods] **Benchmarking algorithms for generalizable single-cell perturbation response prediction** [[paper]](https://www.nature.com/articles/s41592-025-02980-0)
 1. [2025 bioRxiv] **Batch Effects Remain a Fundamental Barrier to Universal Embeddings in Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.19.695371v1)
@@ -35,6 +36,7 @@
 
 
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
+1. [2026 Nature reviews genetics] **Interpretation, extrapolation and perturbation of single cells** [[paper]](https://www.nature.com/articles/s41576-025-00920-4)
 1. [2025 npj digital medicine] **AI-driven virtual cell models in preclinical research: technical pathways, validation mechanisms, and clinical translation potential** [[paper]](https://www.nature.com/articles/s41746-025-02198-6)
 1. [2025 Nature Methods] **The virtual cell** [[paper]](https://www.nature.com/articles/s41592-025-02951-5)
 1. [2025 Cell Research] **Grow AI virtual cells: three data pillars and closed-loop learning** [[paper]](https://www.nature.com/articles/s41422-025-01101-y)
@@ -85,6 +87,7 @@
 1. [2024 Nature Methods] **Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis** [[paper](https://www.nature.com/articles/s41592-024-02235-4)]
 
 ## FM 
+1. [2026 biorxiv] **Stack: In-Context Learning of Single-Cell Biology** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1)
 1. [2025 biorxiv] **Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity** [[paper]](https://arxiv.org/abs/2504.16956)
 1. [2025 biorxiv] **A Foundation Model for Spatial Proteomics** [[paper]](https://arxiv.org/abs/2506.03373)
 1. [2025 Nature Machine Intelligence] **Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using scPEFT** [[paper]](https://www.nature.com/articles/s42256-025-01170-z)
