@@ -1,4 +1,5 @@
 ## Foundation-Model-Evaluation-For-Single-cell
+1. [2026 biorxiv] **A Systematic Comparison of Single-Cell Perturbation Response Prediction Models** [[paper]](https://www.biorxiv.org/content/10.1101/2024.12.23.630036v2.abstract)
 1. [2026 biorxiv] **A unified framework enables accessible deployment and comprehensive benchmarking of single-cell foundation models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.06.698060v1)
 1. [2025 Nature Biotechnology] **Defining and benchmarking open problems in single-cell analysis** [[paper]](https://www.nature.com/articles/s41587-025-02694-w)
 1. [2025 Nature Methods] **Benchmarking algorithms for generalizable single-cell perturbation response prediction** [[paper]](https://www.nature.com/articles/s41592-025-02980-0)
@@ -66,6 +67,7 @@
 
 # Foundation-Model-For-Single-cell
 ## FM + LLM
+1. [2026 biorxiv] **OKR-Cell: Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.09.698573v1)
 1. [2026 Nature Biomedical Engineering] **spEMO: Leveraging Multi-Modal Foundation Models for Analyzing Spatial Multi-Omic and Histopathology Data** [[paper]](https://www.biorxiv.org/content/10.1101/2025.01.13.632818v3)
 1. [2025 Nature Computational Science] **Scouter predicts transcriptional responses to genetic perturbations with large language model embeddings**[[paper]](https://www.nature.com/articles/s43588-025-00912-8)
 1. [2025 Nature Communications] **CASSIA: a multi-agent large language model for automated and interpretable cell annotation** [[paper](https://www.nature.com/articles/s41467-025-67084-x)]
