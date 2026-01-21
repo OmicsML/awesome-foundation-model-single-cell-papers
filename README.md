@@ -47,6 +47,8 @@
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)]
 
 ## Single-cell-Genomics-Machine-Learning-Related-Survey-and-Perspective
+1. [2026 Bioactive Materials] **Artificial Intelligence Virtual Organoids (AIVOs)**
+1. [2026 Cancer Cell] **Spatial omics at the forefront: emerging technologies, analytical innovations, and clinical applications** [[paper]](https://www.cell.com/cancer-cell/fulltext/S1535-6108(25)00543-4)
 1. [2026 Nature reviews genetics] **Interpretation, extrapolation and perturbation of single cells** [[paper]](https://www.nature.com/articles/s41576-025-00920-4)
 1. [2025 Nature Methods] **Computational strategies for cross-species knowledge transfer** [[paper]](https://www.nature.com/articles/s41592-025-02931-9)
 1. [2025 Nature Methods] **Multimodal foundation transformer models for multiscale genomics** [[paper]](https://www.nature.com/articles/s41592-025-02918-6)
@@ -97,6 +99,9 @@
 
 ## FM 
 1. [2026 biorxiv] **Stack: In-Context Learning of Single-Cell Biology** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1)
+1. [2025 biorxiv] **GeneJepa: A Predictive World Model of the Transcriptome** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.14.682378v1)
+1. [2025 biorxiv] **Unified modeling of cellular responses to diverse perturbation types** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.13.688367v1)
+1. [2025 biorxiv] **OmniCell: Unified Foundation Modeling of Single-Cell and Spatial Transcriptomics for Cellular and Molecular Insights** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.29.696804v1)
 1. [2025 biorxiv] **Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity** [[paper]](https://arxiv.org/abs/2504.16956)
 1. [2025 biorxiv] **A Foundation Model for Spatial Proteomics** [[paper]](https://arxiv.org/abs/2506.03373)
 1. [2025 Nature Machine Intelligence] **Harnessing the power of single-cell large language models with parameter-efficient fine-tuning using scPEFT** [[paper]](https://www.nature.com/articles/s42256-025-01170-z)
