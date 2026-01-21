@@ -99,6 +99,8 @@
 
 ## FM 
 1. [2026 biorxiv] **Stack: In-Context Learning of Single-Cell Biology** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.09.698608v1)
+1. [2025 biorxiv] **GeneJepa: A Predictive World Model of the Transcriptome** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.14.682378v1)
+1. [2025 biorxiv] **Unified modeling of cellular responses to diverse perturbation types** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.13.688367v1)
 1. [2025 biorxiv] **OmniCell: Unified Foundation Modeling of Single-Cell and Spatial Transcriptomics for Cellular and Molecular Insights** [[paper]](https://www.biorxiv.org/content/10.64898/2025.12.29.696804v1)
 1. [2025 biorxiv] **Bidirectional Mamba for Single-Cell Data: Efficient Context Learning with Biological Fidelity** [[paper]](https://arxiv.org/abs/2504.16956)
 1. [2025 biorxiv] **A Foundation Model for Spatial Proteomics** [[paper]](https://arxiv.org/abs/2506.03373)
