@@ -25,13 +25,29 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
 * [Awesome Foundation Models for Single-Cell](#awesome-foundation-models-for-single-cell)
    * [Single-Cell Foundation Models](#single-cell-foundation-models)
       * [Unimodal scFMs](#unimodal-scfms)
+         * [scRNA-seq](#scrna-seq)
+         * [scATAC-seq](#scatac-seq)
       * [Multimodal scFMs](#multimodal-scfms)
+         * [Transcriptomics and Perturbation](#transcriptomics-and-perturbation)
+         * [Spatial, Proteomics and Histology](#spatial-proteomics-and-histology)
+         * [Multi-omics: RNA, ATAC and Protein](#multi-omics-rna-atac-and-protein)
       * [LLM-based scFMs](#llm-based-scfms)
    * [Genetic Perturbation: Models, Atlases and Benchmarks](#genetic-perturbation-models-atlases-and-benchmarks)
+      * [Models and prediction frameworks](#models-and-prediction-frameworks)
+      * [Perturbation atlases and datasets](#perturbation-atlases-and-datasets)
+      * [Perturbation benchmarks](#perturbation-benchmarks)
    * [Virtual Cell, World Models and Digital Human](#virtual-cell-world-models-and-digital-human)
    * [Pretraining Datasets and Resources](#pretraining-datasets-and-resources)
+      * [Single-cell transcriptomic atlases and repositories](#single-cell-transcriptomic-atlases-and-repositories)
+      * [Multimodal and spatial pretraining corpora](#multimodal-and-spatial-pretraining-corpora)
+      * [Data formats and frameworks](#data-formats-and-frameworks)
    * [Benchmarks and Evaluation](#benchmarks-and-evaluation)
+      * [Benchmarks and critical evaluations](#benchmarks-and-critical-evaluations)
+      * [Data privacy and accessibility](#data-privacy-and-accessibility)
    * [Infrastructure, Platforms and AI Agents](#infrastructure-platforms-and-ai-agents)
+      * [Infrastructure and platforms](#infrastructure-and-platforms)
+      * [AI agents for single-cell discovery](#ai-agents-for-single-cell-discovery)
+      * [Lab-in-the-loop and active discovery](#lab-in-the-loop-and-active-discovery)
    * [Surveys and Perspectives](#surveys-and-perspectives)
    * [Foundation Models for Pathology (related work)](#foundation-models-for-pathology-related-work)
 
@@ -106,7 +122,7 @@ Models trained within a single omic modality (scRNA-seq or scATAC-seq), learning
 
 Models that jointly encode complementary modalities — transcriptomic, epigenomic, proteomic, perturbational and spatial — through modality-specific reconstruction, cross-modality alignment, or task-informed supervision.
 
-#### Transcriptomics + Perturbation
+#### Transcriptomics and Perturbation
 1. [2026 bioRxiv] **X-Cell: Scaling Causal Perturbation Prediction Across Diverse Cellular Contexts via Diffusion Language Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.18.712807v1)
 1. [2026 arXiv] **SCALE: Scalable conditional atlas-level endpoint transport for virtual cell perturbation prediction** [[paper]](https://arxiv.org/abs/2603.17380)
 1. [2026 bioRxiv] **PerturbGen: Predicting how perturbations reshape cellular trajectories** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.04.709254v1)
@@ -114,7 +130,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1)
 1. [2025 bioRxiv] **STATE: Predicting cellular responses to perturbation across diverse contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2)
 
-#### Spatial (ST / spatial proteomics / H&E)
+#### Spatial, Proteomics and Histology
 1. [2026 Nature Medicine] **HEX: AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer** [[paper]](https://www.nature.com/articles/s41591-025-04060-4)
 1. [2026 bioRxiv] **xVERSE: A transcriptomics-native foundation model for universal cell representation and virtual cell synthesis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.12.718016v1)
 1. [2026 arXiv] **STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction** [[paper]](https://arxiv.org/abs/2604.03630)
@@ -136,7 +152,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 Nature Computational Science] **SWITCH: Integrative deep learning of spatial multi-omics** [[paper]](https://www.nature.com/articles/s43588-025-00891-w)
 1. [2025 bioRxiv] **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1)
 
-#### Multi-omics (RNA + ATAC / RNA + Protein)
+#### Multi-omics: RNA, ATAC and Protein
 1. [2026 bioRxiv] **CLM-X: A multimodal single-cell foundation model with flexible multi-way Transformer for unified scRNA-seq and scATAC-seq analysis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.02.17.704943v1)
 1. [2025 bioRxiv] **SCARF: Single Cell ATAC-seq and RNA-seq Foundation model** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)
 1. [2026 Nature Communications] **CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein** [[paper]](https://www.nature.com/articles/s41467-026-72882-y)
