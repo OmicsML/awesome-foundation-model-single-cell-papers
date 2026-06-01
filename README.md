@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-A curated, continuously updated reading list of <b>foundation-model</b> research for <b>single-cell genomics</b>. The structure follows our review <b><i>"Foundation models in single-cell omics: architectures, applications and challenges"</i></b>: single-cell foundation models are organized into <b>unimodal</b>, <b>multimodal</b>, and <b>LLM-based</b> scFMs, and the surrounding literature is grouped into perturbation modeling, virtual cells, pretraining datasets, benchmarks, infrastructure & agents, and surveys.
+A curated, continuously updated reading list of <b>foundation-model</b> research for <b>single-cell genomics</b>. The structure follows our review <b><i>"Foundation models in single-cell omics: architectures, applications and challenges"</i></b>: single-cell foundation models are organized into <b>unimodal</b>, <b>multimodal</b>, and <b>LLM-based</b> scFMs, and the surrounding literature is grouped into perturbation modeling, virtual cells, pretraining datasets, benchmarks, infrastructure & agents, and surveys. Beyond the papers cited in our review, this reading list further includes atypical or emerging single-cell machine learning models, comments, perspectives, and additional benchmark studies that provide a broader view of the rapidly evolving field.
 </p>
 
 <p align="center">
