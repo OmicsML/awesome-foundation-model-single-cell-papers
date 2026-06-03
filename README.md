@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-A curated, continuously updated reading list of <b>foundation-model</b> research for <b>single-cell genomics</b>. The structure follows our review <b><i>"Foundation models in single-cell omics: architectures, applications and challenges"</i></b>: single-cell foundation models are organized into <b>unimodal</b>, <b>multimodal</b>, and <b>LLM-based</b> scFMs, and the surrounding literature is grouped into perturbation modeling, virtual cells, pretraining datasets, benchmarks, infrastructure & agents, and surveys. Beyond the papers cited in our review, this reading list further includes atypical or emerging single-cell machine learning models, comments, perspectives, and additional benchmark studies that provide a broader view of the rapidly evolving field.
+A curated, continuously updated reading list of <b>foundation-model</b> research for <b>single-cell genomics</b>. The structure follows our review <b><i>"Foundation models in single-cell omics: architectures, applications and challenges"</i></b>: single-cell foundation models are organized into <b>unimodal</b>, <b>multimodal</b>, and <b>LLM-based</b> scFMs, and the surrounding literature is grouped into perturbation modeling, virtual cells, pretraining datasets, benchmarks, infrastructure & agents, and surveys.
 </p>
 
 <p align="center">
@@ -37,6 +37,8 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
       * [Perturbation atlases and datasets](#perturbation-atlases-and-datasets)
       * [Perturbation benchmarks](#perturbation-benchmarks)
    * [Virtual Cell, World Models and Digital Human](#virtual-cell-world-models-and-digital-human)
+     * [Reviews, comments, and perspectives](#reviews-comments-and-perspectives)
+     * [Models and frameworks](#models-and-frameworks)
    * [Pretraining Datasets and Resources](#pretraining-datasets-and-resources)
       * [Single-cell transcriptomic atlases and repositories](#single-cell-transcriptomic-atlases-and-repositories)
       * [Multimodal and spatial pretraining corpora](#multimodal-and-spatial-pretraining-corpora)
@@ -241,24 +243,27 @@ Perturbation-centric foundation models, prediction frameworks, large-scale pertu
 
 Emerging generative training paradigms that recast scFMs as cellular world models, and efforts toward virtual embryos and digital humans.
 
-1. [2026 bioRxiv] **AlphaCell: Towards building a World Model to simulate perturbation-induced cellular dynamics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.02.709176v1)
-1. [2026 arXiv] **Chreode: A cell world model for one-step temporal dynamics and perturbation prediction** [[paper]](https://arxiv.org/abs/2605.28111)
+### Reviews, comments, and perspectives
+1. [2026 Nature] **‘Virtual cells’ aim to turn raw data into predictive models of biology** [[paper]](https://www.nature.com/articles/d41586-026-01731-1)
 1. [2026 GenBio AI] **A world model of the virtual cell** [[paper]](https://genbio.ai/research/virtual-cell-may-3.pdf)
 1. [2026 Nature Methods] **Towards predictive virtual embryos with genomics and AI** [[paper]](https://www.nature.com/articles/s41592-026-03055-4)
-1. [2026 bioRxiv] **CellFluxV2: An Image Generative Foundation Model for Virtual Cell Modeling** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.19.696785v1)
-1. [2025 Cell] **Virtual Cell Challenge: Toward a Turing test for the virtual cell** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0)
-1. [2025 arXiv] **CellForge: Agentic Design of Virtual Cell Models** [[paper]](https://arxiv.org/abs/2508.02276)
-1. [2025 arXiv] **Virtual Cells: Predict, Explain, Discover** [[paper]](https://arxiv.org/abs/2505.14613)
-1. [2026 ICLR] **VCWorld: A Biological World Model for Virtual Cell Simulation** [[paper]](https://arxiv.org/abs/2512.00306)
-1. [2025 npj Digital Medicine] **AI-driven virtual cell models in preclinical research: technical pathways, validation mechanisms, and clinical translation potential** [[paper]](https://www.nature.com/articles/s41746-025-02198-6)
+1. [2026 Bioactive Materials] **Artificial Intelligence Virtual Organoids (AIVOs)** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452199X2500622X)
 1. [2025 Nature Methods] **The virtual cell** [[paper]](https://www.nature.com/articles/s41592-025-02951-5)
+1. [2025 npj Digital Medicine] **AI-driven virtual cell models in preclinical research: technical pathways, validation mechanisms, and clinical translation potential** [[paper]](https://www.nature.com/articles/s41746-025-02198-6)
 1. [2025 Cell Research] **Grow AI virtual cells: three data pillars and closed-loop learning** [[paper]](https://www.nature.com/articles/s41422-025-01101-y)
 1. [2025 arXiv] **Large Language Models Meet Virtual Cell: A Survey** [[paper]](https://arxiv.org/abs/2510.07706)
-1. [2025 bioRxiv] **MERFISH+: a large-scale, multi-omics spatial technology resolves the molecular holograms of the 3D human developing heart** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.02.686137v1)
+1. [2025 arXiv] **Virtual Cells: Predict, Explain, Discover** [[paper]](https://arxiv.org/abs/2505.14613)
+1. [2025 Cell] **Virtual Cell Challenge: Toward a Turing test for the virtual cell** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(25)00675-0)
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
-1. [2024 Cell] **Spatiotemporal modeling of molecular holograms** [[paper]](https://doi.org/10.1016/j.cell.2024.10.011)
-1. [2024 Nature] **A single-cell time-lapse of mouse prenatal development from gastrula to birth** [[paper]](https://doi.org/10.1038/s41586-024-07069-w)
-1. [2022 Cell] **Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-patterned arrays** [[paper]](https://doi.org/10.1016/j.cell.2022.04.003)
+
+### Models and frameworks
+1. [2026 arXiv] **Cell-JEPA: Latent Representation Learning for Single-Cell Transcriptomics** [[paper]](https://arxiv.org/abs/2602.02093)
+1. [2025 bioRxiv] **GeneJepa: A Predictive World Model of the Transcriptome** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.14.682378v1)
+1. [2026 bioRxiv] **AlphaCell: Towards building a World Model to simulate perturbation-induced cellular dynamics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.02.709176v1)
+1. [2026 arXiv] **Chreode: A cell world model for one-step temporal dynamics and perturbation prediction** [[paper]](https://arxiv.org/abs/2605.28111)
+1. [2026 bioRxiv] **CellFluxV2: An Image Generative Foundation Model for Virtual Cell Modeling** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.19.696785v1)
+1. [2025 arXiv] **CellForge: Agentic Design of Virtual Cell Models** [[paper]](https://arxiv.org/abs/2508.02276)
+1. [2026 ICLR] **VCWorld: A Biological World Model for Virtual Cell Simulation** [[paper]](https://arxiv.org/abs/2512.00306)
 
 ## Pretraining Datasets and Resources
 
@@ -294,7 +299,9 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 Benchmarks, reusability reports, and critical evaluations of single-cell foundation models, plus the science of evaluation and data-privacy considerations.
 
 ### Benchmarks and critical evaluations
-1. [2026 Nature Communications] **SCMBench: benchmarking domain-specific and foundation models for single-cell multi-omics data integration** [[paper]](https://www.nature.com/articles/s41467-026-72570-x)
+1. [2026 Nature Biotechnology] **Scoring gene importance by interpreting single-cell foundation models** [[paper]](https://www.nature.com/articles/s41587-026-03112-5)
+2. [2026 arXiv] **Benchmarking virtual cell models for in-the-wild perturbation response** [[paper]](https://arxiv.org/abs/2604.27646)
+3. [2026 Nature Communications] **SCMBench: benchmarking domain-specific and foundation models for single-cell multi-omics data integration** [[paper]](https://www.nature.com/articles/s41467-026-72570-x)
 1. [2026 bioRxiv] **A unified framework enables accessible deployment and comprehensive benchmarking of single-cell foundation models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.06.698060v1)
 1. [2026 Nature Computational Science] **Improving atlas-scale single-cell annotation models with hierarchical cross-entropy loss** [[paper]](https://doi.org/10.1038/s43588-025-00945-z)
 1. [2026 bioRxiv] **CellBench-LS: Benchmark Evaluation of Single-cell Foundation Models for Low-supervision Scenarios** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.01.714123v1)
@@ -379,8 +386,9 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 1. [2026 ICML] **Many needles in a haystack: Active hit discovery for perturbation experiments** [[paper]](https://arxiv.org/abs/2605.10196)
 
 ## Surveys and Perspectives
+More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
+Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
-1. [2026 Bioactive Materials] **Artificial Intelligence Virtual Organoids (AIVOs)** [[paper]](https://www.sciencedirect.com/science/article/pii/S2452199X2500622X)
 1. [2026 Cancer Cell] **Spatial omics at the forefront: emerging technologies, analytical innovations, and clinical applications** [[paper]](https://www.cell.com/cancer-cell/fulltext/S1535-6108(25)00543-4)
 1. [2026 Nature Reviews Genetics] **Interpretation, extrapolation and perturbation of single cells** [[paper]](https://www.nature.com/articles/s41576-025-00920-4)
 1. [2025 Nature] **Towards multimodal foundation models in molecular cell biology** [[paper]](https://www.nature.com/articles/s41586-025-08710-y#Abs1)
