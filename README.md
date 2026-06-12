@@ -16,7 +16,7 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
 </p>
 
 <p align="center">
-Evolutionary tree credit to https://github.com/Mooler0410/LLMsPracticalGuide/tree/main
+  Evolutionary tree credit: <a href="https://github.com/Mooler0410/LLMsPracticalGuide/tree/main">Mooler0410/LLMsPracticalGuide</a>
 </p>
 
 <p align="center">
