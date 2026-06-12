@@ -16,6 +16,10 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
 </p>
 
 <p align="center">
+  Evolutionary tree credit: <a href="https://github.com/Mooler0410/LLMsPracticalGuide/tree/main">Mooler0410/LLMsPracticalGuide</a>
+</p>
+
+<p align="center">
   <a href="figs/evo_tree.pdf"><img src="figs/evo_tree.png" alt="Evolutionary tree of single-cell foundation models" width="80%"></a>
 </p>
 
@@ -133,6 +137,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **STATE: Predicting cellular responses to perturbation across diverse contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2)
 
 #### Spatial, Proteomics and Histology
+1. [2026 bioRxiv] **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.01.729028v1)
 1. [2026 Nature Medicine] **HEX: AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer** [[paper]](https://www.nature.com/articles/s41591-025-04060-4)
 1. [2026 bioRxiv] **xVERSE: A transcriptomics-native foundation model for universal cell representation and virtual cell synthesis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.12.718016v1)
 1. [2026 arXiv] **STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction** [[paper]](https://arxiv.org/abs/2604.03630)
@@ -155,6 +160,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1)
 
 #### Multi-omics: RNA, ATAC and Protein
+1. [2026 bioRxiv] **HoloCell: A Generative Foundation Model for Holistic Cellular Modeling** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.07.730684v1)
 1. [2026 bioRxiv] **CLM-X: A multimodal single-cell foundation model with flexible multi-way Transformer for unified scRNA-seq and scATAC-seq analysis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.02.17.704943v1)
 1. [2025 bioRxiv] **SCARF: Single Cell ATAC-seq and RNA-seq Foundation model** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)
 1. [2026 Nature Communications] **CAPTAIN: A multimodal foundation model pretrained on co-assayed single-cell RNA and protein** [[paper]](https://www.nature.com/articles/s41467-026-72882-y)
@@ -369,6 +375,7 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 1. [2022 Nature Methods] **ColabFold: making protein folding accessible to all** [[paper]](https://doi.org/10.1038/s41592-022-01488-1)
 
 ### AI agents for single-cell discovery
+1. [2026 Nature] **An AI system to help scientists write expert-level empirical software** [[paper]](https://www.nature.com/articles/s41586-026-10658-6)
 1. [2026 npj Artificial Intelligence] **CellAtria: An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis** [[paper]](https://www.nature.com/articles/s44387-025-00064-0)
 1. [2026 Innovation Oncology] **From equations to agents: The artificial intelligence virtual cell reshaping precision oncology** [[paper]](https://www.the-innovation.org/article/doi/10.59717/j.xinn-oncol.2026.100002)
 1. [2026 Nature Biotechnology] **Agentic AI and the rise of in silico team science in biomedical research** [[paper]](https://www.nature.com/articles/s41587-026-03035-1)
@@ -391,6 +398,8 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
 Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
+1. [2026 Nature Machine Intelligence] **Flow matching for generative modelling in bioinformatics and computational biology** [[paper]](https://www.nature.com/articles/s42256-026-01220-0#Sec24)
+1. [2026 Nature Biotechnology] **Tracing the rise of biomedical foundation models** [[paper]](https://www.nature.com/articles/s41587-026-03135-y)
 1. [2026 Cancer Cell] **Spatial omics at the forefront: emerging technologies, analytical innovations, and clinical applications** [[paper]](https://www.cell.com/cancer-cell/fulltext/S1535-6108(25)00543-4)
 1. [2026 Nature Reviews Genetics] **Interpretation, extrapolation and perturbation of single cells** [[paper]](https://www.nature.com/articles/s41576-025-00920-4)
 1. [2025 Nature] **Towards multimodal foundation models in molecular cell biology** [[paper]](https://www.nature.com/articles/s41586-025-08710-y#Abs1)
