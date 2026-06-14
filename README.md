@@ -263,6 +263,7 @@ Emerging generative training paradigms that recast scFMs as cellular world model
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
 
 ### Models and frameworks
+1. [2026 arXiv] **OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction** [[paper]](https://arxiv.org/abs/2606.12838v1)
 1. [2026 arXiv] **Cell-JEPA: Latent Representation Learning for Single-Cell Transcriptomics** [[paper]](https://arxiv.org/abs/2602.02093)
 1. [2025 bioRxiv] **GeneJepa: A Predictive World Model of the Transcriptome** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.14.682378v1)
 1. [2026 bioRxiv] **AlphaCell: Towards building a World Model to simulate perturbation-induced cellular dynamics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.02.709176v1)
@@ -363,6 +364,7 @@ Benchmarks, reusability reports, and critical evaluations of single-cell foundat
 Platforms, model repositories, and scalable infrastructure for scFMs, and emerging AI-agent systems for single-cell discovery.
 
 ### Infrastructure and platforms
+1. [2026 Lamin Blog] **Simpler queries for the 2.5B transcriptional profiles of the Arc Virtual Cell Atlas** [[blog]](https://blog.lamin.ai/arc-virtual-cell-atlas)
 1. [2026 bioRxiv] **CytoVerse: Single-cell AI foundation models in the browser** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.29.702554v1)
 1. [2026 bioRxiv] **cellNexus: Quality control, annotation, aggregation and analytical layers for the Human Cell Atlas data** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.14.718336v1)
 1. [2026 Nature Computational Science] **Toward informed batch correction for single-cell transcriptome integration** [[paper]](https://www.nature.com/articles/s43588-025-00943-1)
