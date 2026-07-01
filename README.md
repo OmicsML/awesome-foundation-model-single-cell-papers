@@ -406,6 +406,8 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
 Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
+1. [2026 Nature] **Towards the construction of a virtual yeast** [[paper]](https://www.nature.com/articles/s41586-026-10574-9)
+1. [2026 Patterns] **Multimodal spatial omics: From data acquisition to computational integration** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389926001017?via%3Dihub)
 1. [2026 Brief in Bioinformatics] **Toward next-generation machine learning and deep learning for spatial omics** [[paper]](https://academic.oup.com/bib/article/27/2/bbag131/8553189)
 1. [2026 Nature Machine Intelligence] **Flow matching for generative modelling in bioinformatics and computational biology** [[paper]](https://www.nature.com/articles/s42256-026-01220-0#Sec24)
 1. [2026 Nature Biotechnology] **Tracing the rise of biomedical foundation models** [[paper]](https://www.nature.com/articles/s41587-026-03135-y)
