@@ -264,6 +264,7 @@ Emerging generative training paradigms that recast scFMs as cellular world model
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
 
 ### Models and frameworks
+1. [2026 bioRxiv] **CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v2)
 1. [2026 bioRxiv] **Towards Autonomous Mechanistic Reasoning in Virtual Cells** [[paper]](https://arxiv.org/abs/2604.11661)
 1. [2026 arXiv] **OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction** [[paper]](https://arxiv.org/abs/2606.12838v1)
 1. [2026 arXiv] **Cell-JEPA: Latent Representation Learning for Single-Cell Transcriptomics** [[paper]](https://arxiv.org/abs/2602.02093)
@@ -281,6 +282,7 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 ### Single-cell transcriptomic atlases and repositories
 1. [2025 bioRxiv] **scBaseCount: an AI agent-curated, uniformly processed, and continually expanding single-cell data repository** [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.27.640494v3)
 1. [2025 Scientific Data] **hECA v2.0: an AI-ready ensemble cell atlas of single-cell RNA and ATAC sequencing data** [[paper]](https://www.nature.com/articles/s41597-025-06426-2)
+1. [2025 Advanced Science] **scCompass: An Integrated Multi-Species scRNA-seq Database for AI-Ready** [[paper]](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202500870) 
 1. [2022 Science] **Tabula Sapiens: a multiple-organ, single-cell transcriptomic atlas of humans** [[paper]](https://doi.org/10.1126/science.abl4896)
 1. [2022 iScience] **hECA: the cell-centric assembly of a cell atlas** [[paper]](https://doi.org/10.1016/j.isci.2022.104318)
 1. [2022 Nucleic Acids Research] **DISCO: a database of deeply integrated human single-cell omics data** [[paper]](https://doi.org/10.1093/nar/gkab1020)
@@ -308,6 +310,7 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 Benchmarks, reusability reports, and critical evaluations of single-cell foundation models, plus the science of evaluation and data-privacy considerations.
 
 ### Benchmarks and critical evaluations
+1. [2026 bioRxiv] **Glitch genes: embedding geometry predicts functional fragility in single-cell foundation models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.22.733850v1)
 1. [2026 bioRxiv] **Benchmarking gene expression reconstruction from single-cell latent representations** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.15.731445v1)
 1. [2026 Nature Methods] **Scaling up training dataset size for transcriptomic AI models is much pain with little gain** [[paper]](https://www.nature.com/articles/s41592-026-03119-5)
 1. [2026 Nature Methods] **Evaluating the role of pretraining dataset size and diversity on single-cell foundation model performance** [[paper]](https://www.nature.com/articles/s41592-026-03120-y)
@@ -403,6 +406,9 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
 Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
+1. [2026 Nature] **Towards the construction of a virtual yeast** [[paper]](https://www.nature.com/articles/s41586-026-10574-9)
+1. [2026 Patterns] **Multimodal spatial omics: From data acquisition to computational integration** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389926001017?via%3Dihub)
+1. [2026 Brief in Bioinformatics] **Toward next-generation machine learning and deep learning for spatial omics** [[paper]](https://academic.oup.com/bib/article/27/2/bbag131/8553189)
 1. [2026 Nature Machine Intelligence] **Flow matching for generative modelling in bioinformatics and computational biology** [[paper]](https://www.nature.com/articles/s42256-026-01220-0#Sec24)
 1. [2026 Nature Biotechnology] **Tracing the rise of biomedical foundation models** [[paper]](https://www.nature.com/articles/s41587-026-03135-y)
 1. [2026 Cell Systems] **From modality-specific to compositional foundation models for cell biology** [[paper]](https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00016-5)
