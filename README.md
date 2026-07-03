@@ -56,6 +56,7 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
   - [Lab-in-the-loop and active discovery](#lab-in-the-loop-and-active-discovery)
 - [Surveys and Perspectives](#surveys-and-perspectives)
 - [Foundation Models for Pathology (related work)](#foundation-models-for-pathology-related-work)
+- [Foundation Models for Bulk Transcriptomes (related work)](#foundation-models-for-bulk-transcriptome)
 
 ## Single-Cell Foundation Models
 
@@ -89,6 +90,7 @@ Models trained within a single omic modality (scRNA-seq or scATAC-seq), learning
 1. [2025 Nature Communications] **CellFM: a large-scale foundation model pre-trained on transcriptomics of 100 million human cells** [[paper]](https://www.nature.com/articles/s41467-025-59926-5)
 1. [2025 National Science Review] **Cell-GraphCompass: Modeling Single Cells with Graph Structure Foundation Model** [[paper]](https://academic.oup.com/nsr/article/12/10/nwaf255/8172492)
 1. [2025 Nature] **SCimilarity: A cell atlas foundation model for scalable search of similar human cells** [[paper]](https://www.nature.com/articles/s41586-024-08411-y)
+1. [2025 bioRxiv] **EVA: a Foundation Model Advancing Translational Drug Development in Immuno-Inflammation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.05.02.651839v1)
 1. [2025 arXiv] **GeneMamba: Bidirectional Mamba for Single-Cell Data — Efficient Context Learning with Biological Fidelity** [[paper]](https://arxiv.org/abs/2504.16956)
 1. [2024 bioRxiv] **CancerFoundation: A single-cell RNA sequencing foundation model to decipher drug resistance in cancer** [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.01.621087v1)
 1. [2024 bioRxiv] **AIDO.Cell: Scaling Dense Representations for Single Cell with Transcriptome-Scale Context** [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.28.625303v1)
@@ -300,10 +302,11 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 1. [2025 ICML] **SToCorpus-88M (SToFM pretraining corpus)** [[paper]](https://arxiv.org/abs/2507.11588)
 
 ### Data formats and frameworks
-1. [2018 Genome Biology] **Scanpy / AnnData: large-scale single-cell gene expression data analysis** [[paper]](https://doi.org/10.1186/s13059-017-1382-0)
-1. [2022 Nature Biotechnology] **scvi-tools: a Python library for probabilistic analysis of single-cell omics data** [[paper]](https://doi.org/10.1038/s41587-021-01206-w)
+1. [2026 ICML] **scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics** [[paper]](https://arxiv.org/html/2506.01883v3)
 1. [2025 Nature Methods] **Pertpy: an end-to-end framework for perturbation analysis** [[paper]](https://www.nature.com/articles/s41592-025-02909-7)
+1. [2022 Nature Biotechnology] **scvi-tools: a Python library for probabilistic analysis of single-cell omics data** [[paper]](https://doi.org/10.1038/s41587-021-01206-w)
 1. [2019 Cell] **Seurat: Comprehensive integration of single-cell data** [[paper]](https://doi.org/10.1016/j.cell.2019.05.031)
+1. [2018 Genome Biology] **Scanpy / AnnData: large-scale single-cell gene expression data analysis** [[paper]](https://doi.org/10.1186/s13059-017-1382-0)
 
 ## Benchmarks and Evaluation
 
@@ -447,3 +450,8 @@ General-purpose computational-pathology foundation models. These are outside the
 1. [2024 Nature Medicine] **Towards a general-purpose foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02857-3)
 1. [2024 Nature Medicine] **A visual-language foundation model for computational pathology** [[paper]](https://www.nature.com/articles/s41591-024-02856-4)
 1. [2023 Nature Medicine] **A visual–language foundation model for pathology image analysis using medical Twitter** [[paper]](https://www.nature.com/articles/s41591-023-02504-3)
+
+## Foundation Models for Bulk Transcriptome
+
+1. [2026 Cell Systems] **BulkFormer: A large-scale foundation model for bulk transcriptomes** [[paper]](https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00139-0)
+1. [2026 Nature Medicine] **Generalizable AI predicts immunotherapy outcomes across cancers and treatments** [[paper]](https://www.nature.com/articles/s41591-026-04502-7)
