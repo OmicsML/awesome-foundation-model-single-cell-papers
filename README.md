@@ -67,6 +67,8 @@ Single-cell foundation models are pretrained on large-scale atlases to learn tra
 Models trained within a single omic modality (scRNA-seq or scATAC-seq), learning representations through masked reconstruction, autoregressive generation, contrastive/relational alignment, or supervised prediction.
 
 #### scRNA-seq
+1. [2026 Genome Biology] **scDMC: Unlocking biological insight from single-cell data with an interpretable dual-stream foundation model** [[paper]](https://link.springer.com/article/10.1186/s13059-026-04193-w)
+1. [2026 arXiv] **scVision: A vision foundation model for single-cell biology via spatial gene cartography** [[paper]](https://arxiv.org/abs/2607.14163)
 1. [2026 arXiv] **Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning** [[paper]]()
 1. [2026 Nature] **Universal cell embedding provides a foundation model for cell biology** [[paper]](https://www.nature.com/articles/s41586-026-10689-z)
 1. [2026 bioRxiv] **MaxToki: Temporal AI model predicts drivers of cell state trajectories across human aging** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.30.715396v1)
@@ -133,6 +135,7 @@ Models trained within a single omic modality (scRNA-seq or scATAC-seq), learning
 Models that jointly encode complementary modalities — transcriptomic, epigenomic, proteomic, perturbational and spatial — through modality-specific reconstruction, cross-modality alignment, or task-informed supervision.
 
 #### Transcriptomics and Perturbation
+1. [2026 ICML] **scDEBART: Predicting in silico Single-Cell Perturbation Responses via Large-Scale Differential Expression Learning** [[paper]](https://openreview.net/forum?id=pJyidZg93y)
 1. [2026 bioRxiv] **X-Cell: Scaling Causal Perturbation Prediction Across Diverse Cellular Contexts via Diffusion Language Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.18.712807v1)
 1. [2026 arXiv] **SCALE: Scalable conditional atlas-level endpoint transport for virtual cell perturbation prediction** [[paper]](https://arxiv.org/abs/2603.17380)
 1. [2026 bioRxiv] **PerturbGen: Predicting how perturbations reshape cellular trajectories** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.04.709254v1)
@@ -141,12 +144,16 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **STATE: Predicting cellular responses to perturbation across diverse contexts** [[paper]](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v2)
 
 #### Spatial, Proteomics and Histology
+1. [2026 bioRxiv] **Multi-scale modeling of human tissues from spatial transcriptomics with TERRA** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.29.741565v1)
+1. [2026 Nature] **VirTues: The Virtual Tissues foundation model resolves spatial proteomics across scales** [[paper]](https://www.nature.com/articles/s41586-026-10884-y)
+1. [2026 bioRxiv] **Spatium: A Protein Language Foundation Model for Spatial Proteomics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.23.740264v1)
 1. [2026 medRxiv] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
 1. [2026 bioRxiv] **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.01.729028v1)
 1. [2026 Nature Medicine] **HEX: AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer** [[paper]](https://www.nature.com/articles/s41591-025-04060-4)
 1. [2026 bioRxiv] **xVERSE: A transcriptomics-native foundation model for universal cell representation and virtual cell synthesis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.12.718016v1)
 1. [2026 arXiv] **STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction** [[paper]](https://arxiv.org/abs/2604.03630)
 1. [2026 bioRxiv] **SpatialFusion: A lightweight multimodal foundation model for pathway-informed spatial niche mapping** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.16.712056v1)
+1. [2025 bioRxiv] **BrainBeacon: A Cross-Species Foundation Model for Single-cell Resolved Brain Spatial Transcriptomics** [[paper]](https://www.biorxiv.org/content/10.1101/2025.07.08.663729v1)
 1. [2025 arXiv] **HEIST: A graph foundation model for spatial transcriptomics and proteomics data** [[paper]](https://arxiv.org/abs/2506.11152)
 1. [2025 arXiv] **KRONOS: A Foundation Model for Spatial Proteomics** [[paper]](https://arxiv.org/abs/2506.03373)
 1. [2025 arXiv] **SPATIA: Multimodal Generation and Prediction of Spatial Cell Phenotypes** [[paper]](https://arxiv.org/abs/2507.04704)
@@ -165,6 +172,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **SpaTranslator: A deep generative framework for universal spatial multi-omics cross-modality translation** [[paper]](https://www.biorxiv.org/content/10.1101/2025.11.15.688644v1)
 
 #### Multi-omics: RNA, ATAC and Protein
+1. [2026 bioRxiv] **RegFM: an interpretable context-aware foundation model for human transcriptional regulation** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.17.744355v1)
 1. [2026 bioRxiv] **HoloCell: A Generative Foundation Model for Holistic Cellular Modeling** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.07.730684v1)
 1. [2026 bioRxiv] **CLM-X: A multimodal single-cell foundation model with flexible multi-way Transformer for unified scRNA-seq and scATAC-seq analysis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.02.17.704943v1)
 1. [2025 bioRxiv] **SCARF: Single Cell ATAC-seq and RNA-seq Foundation model** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)
@@ -209,6 +217,8 @@ Models that incorporate large language models or textual biological knowledge in
 Perturbation-centric foundation models, prediction frameworks, large-scale perturbation atlases, and benchmarks. (Perturbation-trained scFMs such as X-Cell, SCALE, PerturbGen, STATE, GeneJepa and Tahoe-x1 are listed under [Multimodal scFMs](#multimodal-scfms).)
 
 ### Models and prediction frameworks
+1. [2026 bioRxiv] **Unbalanced Perturbation Dynamics For Cell Fate Design** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.30.735555v1)
+1. [2026 bioRxiv] **Perturbation response decomposition enables biologically aligned generalization to unseen perturbations and cellular contexts** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.24.740459v1)
 1. [2026 ICLR] **scDFM: Distributional Flow Matching for Robust Single-Cell Perturbation Prediction** [[paper]](https://arxiv.org/abs/2602.07103)
 1. [2026 arXiv] **PRiMeFlow: Capturing Complex Expression Heterogeneity in Perturbation Response Modelling** [[paper]](https://arxiv.org/abs/2604.13986)
 1. [2026 bioRxiv] **AetherCell: A generative engine for virtual cell perturbation and in vivo drug discovery** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.13.710968v1)
@@ -236,6 +246,7 @@ Perturbation-centric foundation models, prediction frameworks, large-scale pertu
 1. [2016 Cell] **Perturb-seq: dissecting molecular circuits with scalable single-cell RNA profiling of pooled genetic screens** [[paper]](https://doi.org/10.1016/j.cell.2016.11.038)
 
 ### Perturbation benchmarks
+1. [2026 bioRxiv] **Towards Principled Evaluation of Single-Cell Perturbation Prediction Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.23.740433v1)
 1. [2026 Genome Biology] **scArchon: a scalable benchmarking framework for assessing single-cell perturbation models** [[paper]](https://link.springer.com/article/10.1186/s13059-026-04104-z)
 1. [2026 bioRxiv] **Foundation Models Improve Perturbation Response Prediction** [[paper]](https://www.biorxiv.org/content/10.64898/2026.02.18.706454v1)
 1. [2026 bioRxiv] **Evaluating Single-Cell Perturbation Response Models Is Far from Straightforward** [[paper]](https://www.biorxiv.org/content/10.64898/2026.02.14.705879v1)
@@ -256,6 +267,8 @@ Perturbation-centric foundation models, prediction frameworks, large-scale pertu
 Emerging generative training paradigms that recast scFMs as cellular world models, and efforts toward virtual embryos and digital humans.
 
 ### Reviews, comments, and perspectives
+1. [2026 Nature Medicine] **How to build an AI-driven digital organism** [[paper]](https://www.nature.com/articles/s41591-026-04595-0)
+1. [2026 OpenReview] **What Makes a Virtual Cell a World Model? Three Gaps, Three Experiments, and a Roadmap** [[paper]](https://openreview.net/forum?id=YyI469JbU3)
 1. [2026 Nature] **‘Virtual cells’ aim to turn raw data into predictive models of biology** [[paper]](https://www.nature.com/articles/d41586-026-01731-1)
 1. [2026 GenBio AI] **A world model of the virtual cell** [[paper]](https://genbio.ai/research/virtual-cell-may-3.pdf)
 1. [2026 Nature Methods] **Towards predictive virtual embryos with genomics and AI** [[paper]](https://www.nature.com/articles/s41592-026-03055-4)
@@ -269,6 +282,9 @@ Emerging generative training paradigms that recast scFMs as cellular world model
 1. [2024 Cell] **How to build the virtual cell with artificial intelligence: Priorities and opportunities** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
 
 ### Models and frameworks
+1. [2026 bioRxiv] **A Generative Virtual Tissue Model Enables Computational Design of Therapeutic Perturbation Strategies** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.12.743536v1)
+1. [2026 GenBio AI] **AIDO Cell: A General-Purpose Simulator for Cell Biology** [[blog]](https://genbio.ai/aido-cell-simulator/)
+1. [2026 medRxiv] **RisQ: Learning the shared structure of human health across diseases, modalities, and time** [[paper]](https://www.medrxiv.org/content/10.64898/2026.07.07.26357373v1)
 1. [2026 bioRxiv] **CellOS: Learning a World Model of Cellular State through Joint Embedding Prediction** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.18.733163v2)
 1. [2026 bioRxiv] **Towards Autonomous Mechanistic Reasoning in Virtual Cells** [[paper]](https://arxiv.org/abs/2604.11661)
 1. [2026 arXiv] **OCOO-T : A Simple and Scalable Virtual Cell Model for Transcriptional Perturbation Response Prediction** [[paper]](https://arxiv.org/abs/2606.12838v1)
@@ -305,6 +321,7 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 1. [2025 ICML] **SToCorpus-88M (SToFM pretraining corpus)** [[paper]](https://arxiv.org/abs/2507.11588)
 
 ### Data formats and frameworks
+1. [2026 bioRxiv] **Building optimized single-cell reference atlases with scAtlasTb** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.30.741695v1)
 1. [2026 ICML] **scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics** [[paper]](https://arxiv.org/html/2506.01883v3)
 1. [2025 Nature Methods] **Pertpy: an end-to-end framework for perturbation analysis** [[paper]](https://www.nature.com/articles/s41592-025-02909-7)
 1. [2022 Nature Biotechnology] **scvi-tools: a Python library for probabilistic analysis of single-cell omics data** [[paper]](https://doi.org/10.1038/s41587-021-01206-w)
@@ -316,6 +333,12 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 Benchmarks, reusability reports, and critical evaluations of single-cell foundation models, plus the science of evaluation and data-privacy considerations.
 
 ### Benchmarks and critical evaluations
+1. [2026 bioRxiv] **VCBench: A Multi-Dimensional Benchmark for Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.18.733146v1)
+1. [2026 bioRxiv] **Evaluating the ability of spatial transcriptomics foundation models to learn multi-scale spatial variation** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.01.742217v1)
+1. [2026 BMC Genomics] **Systematic evaluation of single-cell foundation model interpretability: attention-derived edge scores add no incremental value over gene-level features for perturbation-target prediction** [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13390336/)
+1. [2026 Cell Systems] **Foundation model reveals the shared organization of transcription and topologically associating domains** [[paper]](https://www.cell.com/cell-systems/abstract/S2405-4712(26)00157-2)
+1. [2026 KDD] **scTranslation: A Comprehensive Benchmark for Single-Cell Multi-Omics Modality Translation** [[paper]](https://dl.acm.org/doi/10.1145/3770855.3817464)
+1. [2026 bioRxiv] **Context-dependent utility and robustness of pretrained single-cell foundation model representations across analytical tasks** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.18.733285v2)
 1. [2026 bioRxiv] **Glitch genes: embedding geometry predicts functional fragility in single-cell foundation models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.22.733850v1)
 1. [2026 bioRxiv] **Benchmarking gene expression reconstruction from single-cell latent representations** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.15.731445v1)
 1. [2026 Nature Methods] **Scaling up training dataset size for transcriptomic AI models is much pain with little gain** [[paper]](https://www.nature.com/articles/s41592-026-03119-5)
@@ -376,6 +399,7 @@ Benchmarks, reusability reports, and critical evaluations of single-cell foundat
 Platforms, model repositories, and scalable infrastructure for scFMs, and emerging AI-agent systems for single-cell discovery.
 
 ### Infrastructure and platforms
+1. [2026 bioRxiv] **AdaGeneBudget: Cell-Adaptive Gene-Token Allocation for Efficient Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.06.743174v1)
 1. [2026 Lamin Blog] **Simpler queries for the 2.5B transcriptional profiles of the Arc Virtual Cell Atlas** [[blog]](https://blog.lamin.ai/arc-virtual-cell-atlas)
 1. [2026 bioRxiv] **CytoVerse: Single-cell AI foundation models in the browser** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.29.702554v1)
 1. [2026 bioRxiv] **cellNexus: Quality control, annotation, aggregation and analytical layers for the Human Cell Atlas data** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.14.718336v1)
@@ -389,6 +413,8 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 1. [2022 Nature Methods] **ColabFold: making protein folding accessible to all** [[paper]](https://doi.org/10.1038/s41592-022-01488-1)
 
 ### AI agents for single-cell discovery
+1. [2026 bioRxiv] **Agentic systems are adept at solving well-scoped, verifiable problems in computational biology** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.06.716850v1)
+1. [2026 Preprints.org] **Agentic Laboratories of the Future: Towards World Models for Scientific Discovery** [[paper]](https://www.preprints.org/manuscript/202608.0213)
 1. [2026 Science] **Autonomous biomedical research with an artificial intelligence agent** [[paper]](https://www.science.org/doi/10.1126/science.adz4351)
 1. [2026 Nature] **An AI system to help scientists write expert-level empirical software** [[paper]](https://www.nature.com/articles/s41586-026-10658-6)
 1. [2026 npj Artificial Intelligence] **CellAtria: An agentic AI framework for ingestion and standardization of single-cell RNA-seq data analysis** [[paper]](https://www.nature.com/articles/s44387-025-00064-0)
@@ -412,6 +438,8 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
 Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
+1. [2026 Cell] **Why machines don't speak biology: Toward native biological language models** [[paper]](https://www.cell.com/cell/abstract/S0092-8674(26)00801-9)
+1. [2026 Cell] **Fifteen challenges for generative AI applications to cell biology** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(26)00802-0)
 1. [2026 Nature] **Towards the construction of a virtual yeast** [[paper]](https://www.nature.com/articles/s41586-026-10574-9)
 1. [2026 Patterns] **Multimodal spatial omics: From data acquisition to computational integration** [[paper]](https://www.sciencedirect.com/science/article/pii/S2666389926001017?via%3Dihub)
 1. [2026 Brief in Bioinformatics] **Toward next-generation machine learning and deep learning for spatial omics** [[paper]](https://academic.oup.com/bib/article/27/2/bbag131/8553189)
@@ -458,3 +486,4 @@ General-purpose computational-pathology foundation models. These are outside the
 
 1. [2026 Cell Systems] **BulkFormer: A large-scale foundation model for bulk transcriptomes** [[paper]](https://www.cell.com/cell-systems/fulltext/S2405-4712(26)00139-0)
 1. [2026 Nature Medicine] **Generalizable AI predicts immunotherapy outcomes across cancers and treatments** [[paper]](https://www.nature.com/articles/s41591-026-04502-7)
+1. [2026 ICML] **Bimodal masked language modeling for bulk RNA-seq and DNA methylation representation learning** [[paper]](https://openreview.net/forum?id=fi4gh4Syka)
