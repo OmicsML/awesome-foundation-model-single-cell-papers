@@ -147,6 +147,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2026 bioRxiv] **Multi-scale modeling of human tissues from spatial transcriptomics with TERRA** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.29.741565v1)
 1. [2026 Nature] **VirTues: The Virtual Tissues foundation model resolves spatial proteomics across scales** [[paper]](https://www.nature.com/articles/s41586-026-10884-y)
 1. [2026 bioRxiv] **Spatium: A Protein Language Foundation Model for Spatial Proteomics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.23.740264v1)
+1. [2026 medRxiv] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
 1. [2026 bioRxiv] **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.01.729028v1)
 1. [2026 Nature Medicine] **HEX: AI-enabled virtual spatial proteomics from histopathology for interpretable biomarker discovery in lung cancer** [[paper]](https://www.nature.com/articles/s41591-025-04060-4)
 1. [2026 bioRxiv] **xVERSE: A transcriptomics-native foundation model for universal cell representation and virtual cell synthesis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.12.718016v1)
