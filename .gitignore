@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Claude Code local settings
+.claude/settings.local.json
