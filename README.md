@@ -70,7 +70,7 @@ Models trained within a single omic modality (scRNA-seq or scATAC-seq), learning
 1. [2026 bioRxiv] **scRep: A Latent-Space Self-Distilled Foundation Model for Single-Cell Representation Learning** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.31.747784v1)
 1. [2026 Genome Biology] **scDMC: Unlocking biological insight from single-cell data with an interpretable dual-stream foundation model** [[paper]](https://link.springer.com/article/10.1186/s13059-026-04193-w)
 1. [2026 arXiv] **scVision: A vision foundation model for single-cell biology via spatial gene cartography** [[paper]](https://arxiv.org/abs/2607.14163)
-1. [2026 arXiv] **Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning** [[paper]]()
+1. [2026 arXiv] **Predictive single cell foundation model for gene regulation and aging with privacy-preserving tabular learning** [[paper]](https://arxiv.org/abs/2607.19400)
 1. [2026 Nature] **Universal cell embedding provides a foundation model for cell biology** [[paper]](https://www.nature.com/articles/s41586-026-10689-z)
 1. [2026 bioRxiv] **MaxToki: Temporal AI model predicts drivers of cell state trajectories across human aging** [[paper]](https://www.biorxiv.org/content/10.64898/2026.03.30.715396v1)
 1. [2026 arXiv] **Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells** [[paper]](https://arxiv.org/abs/2603.25240)
@@ -498,7 +498,7 @@ Here is the list of surveys and perspectives that are more focused on single-cel
 1. [2024 Cell] **Toward a foundation model of causal cell and tissue biology with a Perturbation Cell and Tissue Atlas** [[paper]](https://www.cell.com/cell/abstract/S0092-8674(24)00829-8)
 1. [2024 Cell] **The future of rapid and automated single-cell data analysis using reference mapping** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)00301-5)
 1. [2024 Nature] **The Human Cell Atlas from a cell census to a unified foundation model** [[paper]](https://www.nature.com/articles/s41586-024-08338-4)
-1. [2024 Computational and Structural Biotechnology Journal] **A mini-review on perturbation modelling across single-cell omic modalities** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01332-1)
+1. [2024 Computational and Structural Biotechnology Journal] **A mini-review on perturbation modelling across single-cell omic modalities** [[paper]](https://doi.org/10.1016/j.csbj.2024.04.058)
 1. [2024 Briefings in Bioinformatics] **Progress and opportunities of foundation models in bioinformatics** [[paper]](https://academic.oup.com/bib/article/25/6/bbae548/7842778)
 
 ## Foundation Models for Pathology (related work)
