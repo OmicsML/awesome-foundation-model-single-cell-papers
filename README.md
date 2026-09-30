@@ -250,6 +250,7 @@ Perturbation-centric foundation models, prediction frameworks, large-scale pertu
 1. [2024 bioRxiv] **scGenePT: Is language all you need for modeling single-cell perturbations?** [[paper]](https://www.biorxiv.org/content/10.1101/2024.10.23.619972v1)
 1. [2024 Nature Biotechnology] **GEARS: Predicting transcriptional outcomes of novel multigene perturbations** [[paper]](https://www.nature.com/articles/s41587-023-01905-6)
 1. [2023 Nature Methods] **CINEMA-OT: Causal identification of single-cell experimental perturbation effects** [[paper]](https://www.nature.com/articles/s41592-023-02040-5)
+1. [2019 Nature Methods] **scGen predicts single-cell perturbation responses** [[paper]](https://www.nature.com/articles/s41592-019-0494-8)
 
 ### Perturbation atlases and datasets
 1. [2025 bioRxiv] **Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling** [[paper]](https://www.biorxiv.org/content/10.1101/2025.02.20.639398v1)
