@@ -23,7 +23,18 @@ Contributions are very welcome! Found a paper we missed, or a broken link? Open 
   <a href="figs/evo_tree.pdf"><img src="figs/evo_tree.png" alt="Evolutionary tree of single-cell foundation models" width="80%"></a>
 </p>
 
+## Citation
 
+Please feel free to cite our comprehensive review on single-cell foundation models, currently **under review at [Cell](https://www.cell.com/cell/home)**:
+
+```bibtex
+@article{jiang2026landscape,
+  title={The Landscape of Single-Cell Foundation Models: Design Principles, Applications, and Open Challenges},
+  author={Jiang, Shiyu and Fang, Zhaoyu and Zhang, Yujie and Zhang, Xuting and Kalfon, J{\'e}r{\'e}mie and Wang, Weixu and Fu, Xi and Patel, Aakash and Rizvi, Syed and Lu, Yuancheng Ryan and others},
+  year={2026},
+  publisher={Preprints}
+}
+```
 
 ## Catalog
 - [Catalog](#catalog)
