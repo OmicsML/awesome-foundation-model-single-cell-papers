@@ -439,6 +439,7 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 
 ### Infrastructure and platforms
 1. [2026 bioRxiv] **AdaGeneBudget: Cell-Adaptive Gene-Token Allocation for Efficient Single-Cell Foundation Models** [[paper]](https://www.biorxiv.org/content/10.64898/2026.08.06.743174v1)
+1. [2026 Website] **Toolome: a directory of AI tools for biology, with license, paper and release date for each single-cell foundation model** [[website]](https://toolome.bio/category/single-cell/)
 1. [2026 Lamin Blog] **Simpler queries for the 2.5B transcriptional profiles of the Arc Virtual Cell Atlas** [[blog]](https://blog.lamin.ai/arc-virtual-cell-atlas)
 1. [2026 bioRxiv] **CytoVerse: Single-cell AI foundation models in the browser** [[paper]](https://www.biorxiv.org/content/10.64898/2026.01.29.702554v1)
 1. [2026 bioRxiv] **cellNexus: Quality control, annotation, aggregation and analytical layers for the Human Cell Atlas data** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.14.718336v1)
