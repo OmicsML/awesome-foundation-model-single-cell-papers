@@ -477,6 +477,7 @@ Platforms, model repositories, and scalable infrastructure for scFMs, and emergi
 More surveys and perspectives on virtual cell can be found in "Virtual Cell, World Models and Digital Human" section above.
 Here is the list of surveys and perspectives that are more focused on single-cell foundation models in general, rather than the virtual cell paradigm specifically.
 
+1. [2026 Briefings in Bioinformatics] Transformers for single-cell RNA sequencing: a survey [[paper]](https://doi.org/10.1093/bib/bbag332)
 1. [2026 Cell] **Why machines don't speak biology: Toward native biological language models** [[paper]](https://www.cell.com/cell/abstract/S0092-8674(26)00801-9)
 1. [2026 Cell] **Fifteen challenges for generative AI applications to cell biology** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(26)00802-0)
 1. [2026 Nature] **Towards the construction of a virtual yeast** [[paper]](https://www.nature.com/articles/s41586-026-10574-9)
