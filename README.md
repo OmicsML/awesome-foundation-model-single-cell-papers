@@ -158,6 +158,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 bioRxiv] **Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters** [[paper]](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1)
 
 #### Spatial, Proteomics and Histology
+1. [2026 arXiv] **VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression** [[paper]](https://arxiv.org/abs/2608.08366)
 1. [2026 arXiv] **CellWorld: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models** [[paper]](https://arxiv.org/abs/2608.06659)
 1. [2026 Nature Computational Science] **SpatialFormer: universal spatial representation learning from subcellular molecular to multicellular landscapes** [[paper]](https://www.nature.com/articles/s43588-026-01016-7)
 1. [2026 bioRxiv] **Multi-scale modeling of human tissues from spatial transcriptomics with TERRA** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.29.741565v1)
