@@ -672,6 +672,7 @@ Perturbation-centric foundation models, prediction frameworks, large-scale pertu
 Emerging generative training paradigms that recast scFMs as cellular world models, and efforts toward virtual embryos and digital humans.
 
 ### Reviews, comments, and perspectives
+1. [2026 Digital Discovery] **Single-cell foundation models in perturbation prediction: progress, pitfalls and moving forward** [[paper]](https://doi.org/10.1039/d6dd00209a)
 1. [2026 AI Agent] **Virtual cells: evolution, applications, and challenges** [[paper]](https://www.oaepublish.com/articles/aiagent.2026.16)
 1. [2026 Molecular Cell] **Learning how single cells respond to perturbations** [[paper]](https://doi.org/10.1016/j.molcel.2026.09.033)
 1. [2026 Cells] **Explicit Mechanistic Operators in Predictive Virtual Cells: Evidence, Failure Modes, and a Minimum Falsification Framework for Single-Cell Perturbation Prediction** [[paper]](https://doi.org/10.3390/cells15181711)
