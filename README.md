@@ -263,7 +263,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2025 Nature Computational Science] **SWITCH: Integrative deep learning of spatial multi-omics** [[paper]](https://www.nature.com/articles/s43588-025-00891-w)
 
 <details>
-<summary>Preprints and workshop papers (45)</summary>
+<summary>Preprints and workshop papers (46)</summary>
 
 1. [2026 bioRxiv] **Loki2: A Biologically Interpretable Single-Cell Pathology Foundation Model for Molecular Decoding of H&E Images** [[paper]](https://www.biorxiv.org/content/10.64898/2026.11.14.766416v1)
 1. [2026 arXiv] **Predicting Single-Cell Spatial Gene Expression from H&E using Pathology Foundation Models** [[paper]](https://arxiv.org/abs/2611.13649)
@@ -298,6 +298,7 @@ Models that jointly encode complementary modalities — transcriptomic, epigenom
 1. [2026 bioRxiv] **Multi-scale modeling of human tissues from spatial transcriptomics with TERRA** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.29.741565v1)
 1. [2026 bioRxiv] **Spatium: A Protein Language Foundation Model for Spatial Proteomics** [[paper]](https://www.biorxiv.org/content/10.64898/2026.07.23.740264v1)
 1. [2026 medRxiv] **DeepSpot-M: a multimodal foundation model for transcriptome-wide virtual spatial transcriptomics from histology** [[paper]](https://www.medrxiv.org/content/10.64898/2026.06.19.26356060v1)
+1. [2026 medRxiv] **Virtual spatial transcriptomics links kidney histopathology to disease-associated molecular programs** [[paper]](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1)
 1. [2026 bioRxiv] **Integrating Histology with Spatial Molecular Programs Using a Multimodal Foundation Model** [[paper]](https://www.biorxiv.org/content/10.64898/2026.06.01.729028v1)
 1. [2026 bioRxiv] **xVERSE: A transcriptomics-native foundation model for universal cell representation and virtual cell synthesis** [[paper]](https://www.biorxiv.org/content/10.64898/2026.04.12.718016v1)
 1. [2026 arXiv] **STORM: A Multimodal Foundation Model of Spatial Transcriptomics and Histology for Biological Discovery and Clinical Prediction** [[paper]](https://arxiv.org/abs/2604.03630)
@@ -794,9 +795,11 @@ Large-scale atlases, multimodal corpora, and data frameworks used for pretrainin
 1. [2024 Nucleic Acids Research] **SPDB: a comprehensive resource and knowledgebase for proteomic data at the single-cell resolution** [[paper]](https://academic.oup.com/nar/article/52/D1/D562/7416372)
 
 <details>
-<summary>Preprints and workshop papers (2)</summary>
+<summary>Preprints and workshop papers (4)</summary>
 
 1. [2026 bioRxiv] **SpatialDataAgent-DB: An agent-built, verified atlas of public spatial transcriptomics shows that breadth across studies drives transfer and reproducibility** [[paper]](https://www.biorxiv.org/content/10.64898/2026.05.27.727615v1)
+1. [2026 medRxiv] **KPMP virtual spatial transcriptomics atlas: DeepSpot-M predicted spatial transcriptomics (19,338 genes, ~5.46M spots) for 1,534 H&E kidney biopsy slides from 476 KPMP participants** [[paper]](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) · [[dataset]](https://huggingface.co/datasets/ratschlab/KPMP_virtual_spatial_transcriptomics_atlas)
+1. [2026 medRxiv] **KPMP Xenium virtual spatial transcriptomics: DeepSpot-M predicted expression (19,338 genes) for ~1.64M cells in 49 H&E sections of KPMP Xenium kidney biopsies** [[paper]](https://www.medrxiv.org/content/10.64898/2026.11.17.26368273v1) · [[dataset]](https://huggingface.co/datasets/ratschlab/KPMP_Xenium_virtual_spatial_transcriptomics)
 1. [2025 bioRxiv] **SCARF / X-Omics: a 2.7M-cell scRNA-seq/scATAC-seq pretraining corpus** [[paper]](https://www.biorxiv.org/content/10.1101/2025.04.07.647689v1)
 
 </details>
